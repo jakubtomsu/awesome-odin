@@ -21,7 +21,8 @@ A collection of awesome Odin libraries, software and resources.
 - [Core Library Collection](https://pkg.odin-lang.org/core/)
 - [Vendor Library Collection](https://pkg.odin-lang.org/vendor/)
 
-# Libraries
+# Packages
+## Libraries
 List of libraries implemented in Odin.
 
 | Name | Description | License | Tags |
@@ -46,7 +47,7 @@ List of libraries implemented in Odin.
 | [Pattern matcher](https://github.com/laytan/odin-pattern) | Odin implementation of Lua patterns (their regex alternative) | [MIT](https://github.com/laytan/odin-pattern/blob/main/LICENSE) | Lua
 | [jobs](https://github.com/jakubtomsu/jobs) | Job system | [MIT](https://github.com/jakubtomsu/jobs/blob/main/LICENSE) | Gamedev
 
-# Bindings
+## Bindings
 List of Odin bindings to C/C++ libraries.
 
 | Name | Description | License | Tags |
@@ -72,6 +73,54 @@ List of Odin bindings to C/C++ libraries.
 | [Steamworks](https://github.com/jakubtomsu/odin-steamworks) | Bindings for [Steamworks SDK](https://partner.steamgames.com/doc/sdk) | [MIT](https://github.com/jakubtomsu/odin-steamworks/blob/main/LICENSE) | Gamedev
 | [libbfd](https://github.com/wardjm/odin-bfd) | Bindings for [libbfd](https://github.com/CyberGrandChallenge/binutils/tree/master/bfd) | [GPLv2](https://github.com/wardjm/odin-bfd/blob/main/LICENSE) |
 
+
+## Built-in
+This is a list of notable libraries which are distributed along with the Odin compiler. For a full list head over to [Official Package Documentation](https://pkg.odin-lang.org/).
+
+### Base
+Base packages are required by the compiler
+
+| Name | Description |
+| ---- | ----------- |
+| builtin | Contains Odin's predeclared identifiers, like basic types, procedures like `len`, `size_of` etc and many built-in constants like `ODIN_DEBUG`
+| intrinsics | Contains Odin's compiler-level intrinsics, including many low-level procs like atomics, SIMD, X86 or WASM intrinsics and compile-time type reflection
+| runtime | This is the runtime code required by the compiler. Contains definitions of context, allocator, logger, map, dynamic array, type_info etc. and implements things like appending to a dynamic array
+
+### Core
+The core packages implement most of the common features you need while working with Odin
+
+| Name | Description |
+| ---- | ----------- |
+| [fmt](https://pkg.odin-lang.org/core/fmt/)                      | String formatting and console printing
+| [os](https://pkg.odin-lang.org/core/os/)                        | Cross-platform OS interface. Read files, change CWD, etc.
+| [strings](https://pkg.odin-lang.org/core/strings/)              | Common string operations
+| [math](https://pkg.odin-lang.org/core/math/)                    | Common math procedures
+| [math/linalg](https://pkg.odin-lang.org/core/math/linalg/)      | Linear algebra package for 2D and 3D math with vectors, matricies and quaternions
+| [mem](https://pkg.odin-lang.org/core/mem/)                      | Common memory operations and allocators
+| [encoding/json](https://pkg.odin-lang.org/core/encoding/json/)  | Implements a JSON reader/writer, including a way to automatically marshal (serialize) structs
+| [log](https://pkg.odin-lang.org/core/log/)                      | Implements a console and a file logger
+| [sort](https://pkg.odin-lang.org/core/sort/)                    | Implements sorting algorithms
+| [sync](https://pkg.odin-lang.org/core/sync/)                    | Synchronization primitives for multithreading
+| [thread](https://pkg.odin-lang.org/core/thread/)                | Create and manage OS threads
+| [reflect](https://pkg.odin-lang.org/core/reflect/)              | Runtime type reflection
+| [path/filepath](https://pkg.odin-lang.org/core/path/filepath/)  | File path string operations
+
+### Vendor
+Vendor packages are commonly-used third-party libraries distributed along with the compiler
+
+| Name | Description | Tags |
+| ---- | ----------- | ---- |
+| [raylib](https://pkg.odin-lang.org/vendor/raylib/)               | Bindings for [Raylib](https://www.raylib.com/index.html), a simple and easy-to-use library to enjoy videogames programming | Gamedev, Graphics
+| [glfw](https://pkg.odin-lang.org/vendor/glfw/)                   | Bindings for [GLFW](https://www.glfw.org/), a multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop | Gamedev, Graphics
+| [lua](https://pkg.odin-lang.org/vendor/lua/)                     | Bindings for [Lua](https://www.lua.org/about), a powerful, simple and embeddable scripting language | Lua
+| [fontstash](https://pkg.odin-lang.org/vendor/fontstash/)         | Odin implementation of [Fontstash](https://github.com/memononen/fontstash) - a lightweight online font texture atlas builder | Gamedev, Text, Graphics
+| [miniaudio](https://pkg.odin-lang.org/vendor/miniaudio/)         | Bindings for [Miniaudio](https://miniaud.io/), a lightweight audio library | Audio, Gamedev
+| [microui](https://pkg.odin-lang.org/vendor/microui/)             | Odin implementation of [microui](https://github.com/rxi/microui), a tiny immediate-mode UI library | UI, Tools, ImGui, Gamedev
+| [directx/d3d11](https://pkg.odin-lang.org/vendor/directx/d3d11/) | D3D11 bindings | Gamedev, Graphics, 3D
+| [cgltf](https://pkg.odin-lang.org/vendor/cgltf/)                 | Bindings for a GLTF asset loader | Gamedev, Graphics, Format, Assets
+| [darwin/Metal](https://pkg.odin-lang.org/vendor/darwin/Metal/)   | Bindings for Metal API | Gamedev, Graphics, 3D
+| [stb](https://pkg.odin-lang.org/vendor/stb/)                     | Bindings for libs from [STB](https://github.com/nothings/stb) | Format, Gamedev, Assets, Utility
+
 # Gists
 Useful Github Gists in Odin.
 
@@ -88,13 +137,16 @@ Useful Github Gists in Odin.
 | [D3D11 in Odin](https://gist.github.com/gingerBill/b7b75772f92c5511a9cd3ca2e28eca37) | Simple D3D11 based on d7's example | Gamedev, Graphics, Windows, SDL, 3D |
 | [Vulkan Example](https://gist.github.com/terickson001/bdaa52ce621a6c7f4120abba8959ffe6) | Vulkan-tutorial example in Odin | Gamedev, Graphics, Vulkan, GLFW, Shaders |
 | [Minimal Metal Window](https://gist.github.com/Lperlind/1bb993a1c0f1acdd49080fd4852f95c5) | Minmal Cocoa Window with Metal API | Gamedev, Darwin, Metal, Cocoa, Graphics |
+| [D3D12 Triangle](https://gist.github.com/jakubtomsu/ecd83e61976d974c7730f9d7ad3e1fd0) | Single-procedure D3D12 triangle example | Gamedev, Graphics, D3D12, Shaders, SDL |
+
+| Name | Description | Tags |
+| ---- | ----------- | ---- |
+| [UUIDV4](https://gist.github.com/laytan/9053ea979bdbc5ebb4bf66d4caf5c402) | UUID Generator | Cryptography, Wevdev |
 | [WASM4 Bindings](https://gist.github.com/gingerBill/9a6c0a6f0a34a147ff82e9f6047db2ac) | WASM-4 Bindings | Webdev, WASM, Graphics |
 | [Text Editor](https://gist.github.com/pJotoro/fae7bc4ea3c551d40d2e8d5b67c119d4) | Simple text editor | Graphics, Tools, Editor, UI, Font |
-| [D3D12 Triangle](https://gist.github.com/jakubtomsu/ecd83e61976d974c7730f9d7ad3e1fd0) | Single-procedure D3D12 triangle example | Gamedev, Graphics, D3D12, Shaders, SDL |
-| [UUIDV4](https://gist.github.com/laytan/9053ea979bdbc5ebb4bf66d4caf5c402) | UUID Generator | Cryptography, Wevdev |
 
 # Resources
-List of Odin resources.
+List of Odin tutorials, articles, videos and other resources.
 
 | Name | Description | Tags |
 | ---- | ----------- | ---- |
@@ -110,16 +162,33 @@ List of Odin resources.
 | [5 Reasons why Odinlang is great for gamedev](https://youtu.be/ZBfOUa8wY1I?si=dHMcIkNyOi3cLac4) | Video about what makes odin great for gamedev | Youtube |
 | [Odin + WASM = 💙](https://github.com/thetarnav/odin-wasm) | Example of using Odin, WASM and WebGL together. | Example |
 
+## Interviews
+- [ThePrimeagen - Odin Creator Ginger Bill Talks Odin](https://youtu.be/nVa9mgRcVPs?si=Thf2agqoYtYYsXIR)
+- [Developer Voices - Is Odin "Programming done right"? (with Bill Hall)](https://youtu.be/aKYdj0f1iQI?si=oBESSHmgSZGYEPmw)
+- [Mike Shah & Ginger Bill - Programming Proverbs and the Odin programming language](https://youtu.be/IXUfD5c5wp4?si=fga31CkhzYBLeZ0W)
 
-# Open-source Software
+# Tooling
+
+# Built with Odin
+## Open-source Software
 Open-source software implemented in Odin.
 
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
-| [Spall Web](https://github.com/colrdavidson/spall-web) | spall is a profiler library and a web-frontend for exploring your code and digging into potential performance problems | [MIT](https://github.com/colrdavidson/spall-web/blob/master/LICENSE) | Performance, Webdev, WASM, WebGL |
+| [Spall Web](https://github.com/colrdavidson/spall-web) | spall is a profiler library and a web-frontend for exploring your code and digging into potential performance problems | [MIT](https://github.com/colrdavidson/spall-web/blob/master/LICENSE) | Performance, Webdev, WASM, WebGL
+| [Todool](https://github.com/Skytrias/todool) | A To-Do Editor with different modes, advanced movement & powerful commands. Track your development cycle with ease | [MIT](https://github.com/Skytrias/todool/blob/master/LICENSE) | Utility, Tools
 
-# Closed-Source Software
+
+
+## Closed-Source Software
 A list of interesting software built in Odin. It's not open-source, but it can still be useful or inspiring.
+
+| Name | Description | Tags |
+| ---- | ----------- | ---- |
+| [EmberGen](https://jangafx.com/software/embergen/) | Real-time smoke, fire and explosion simulations for film and games | Gamedev, GPU, Graphics, Physics |
+| [GeoGen](https://jangafx.com/software/geogen/) | Real-time Landscape, terrain and planet generator app | Gamedev, GPU, Graphics |
+
+### Games
 
 | Name | Description | Tags |
 | ---- | ----------- | ---- |
