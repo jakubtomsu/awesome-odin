@@ -4,9 +4,11 @@ A collection of awesome Odin libraries, software and resources.
 
 [Odin](https://odin-lang.org/) is a general-purpose programming language built for high-performance, modern systems and data-oriented programming.
 
-[!NOTE] Some of the lists are based on the [Odin Libs Wiki Page](https://github.com/odin-lang/Odin/wiki/Odin-Libs)
+> [!NOTE]
+> Some of the lists are based on the [Odin Libs Wiki Page](https://github.com/odin-lang/Odin/wiki/Odin-Libs)
 
-[!IMPORTANT] Many commonly used bindings are already included in [Vendor Collection](https://pkg.odin-lang.org/vendor/) which comes with the compiler.
+> [!IMPORTANT]
+> Many commonly used bindings are already included in [Vendor Collection](https://pkg.odin-lang.org/vendor/) which comes with the compiler.
 
 # Contents
 - [Libraries](#libraries)
