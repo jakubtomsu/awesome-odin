@@ -1,3 +1,5 @@
+![logo](logo_small.png)
+
 A collection of awesome Odin libraries, software and resources.
 
 [Odin](https://odin-lang.org/) is a general-purpose programming language built for high-performance, modern systems and data-oriented programming.
@@ -13,8 +15,9 @@ A collection of awesome Odin libraries, software and resources.
 # Libraries
 List of libraries implemented in Odin.
 
-| Name | Description | Link | Tags | Author | License |
-| ---- | ----------- | ---- | ---- | ------ | ------- |
+| Name | Description | License | Tags |
+| ---- | ----------- | ---- | ------- | ---- |
+| [Odin HTTP](https://github.com/laytan/odin-http) | A HTTP/1.1 implementation for Odin purely written in Odin (besides SSL) | [MIT](https://github.com/laytan/odin-http/blob/main/LICENSE) | Web, Server |
 
 # Bindings
 List of Odin bindings to C/C++ libraries.
