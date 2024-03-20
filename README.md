@@ -17,7 +17,8 @@ A collection of awesome Odin libraries, software and resources.
 - [Core Library Collection](https://pkg.odin-lang.org/core/)
 - [Vendor Library Collection](https://pkg.odin-lang.org/vendor/)
 
-# Libraries
+# Packages
+## Libraries
 List of libraries implemented in Odin.
 
 | Name | Description | License | Tags |
@@ -25,9 +26,10 @@ List of libraries implemented in Odin.
 | [Odin HTTP](https://github.com/laytan/odin-http) | A HTTP/1.1 implementation for Odin purely written in Odin (besides SSL) | [MIT](https://github.com/laytan/odin-http/blob/main/LICENSE) | Webdev, Server |
 | [LBP Serialization](https://github.com/jakubtomsu/odin-lbp-serialization) | Easy-to-use LBP binary serialization utility | [MIT](https://github.com/jakubtomsu/odin-lbp-serialization/blob/main/LICENSE) | Gamedev |
 | [Vox loader](https://github.com/jakubtomsu/odin-vox) | Simple loader for MagicaVoxel's `.vox` models | [MIT](https://github.com/jakubtomsu/odin-vox/blob/main/LICENSE) | Gamedev, Assets |
+| [LDtk utility](https://github.com/jakubtomsu/odin-ldtk) | Simple loader for LDtk files. LDtk is a moder 2D level editor from the creator of Dead Cells | [MIT](https://github.com/jakubtomsu/odin-ldtk/blob/main/LICENSE) | Gamedev, Assets, Tools |
 | [GraphQL Parser](https://github.com/thetarnav/odin-graphql-parser) | GraphQL language parser | [MIT](https://github.com/thetarnav/odin-graphql-parser/blob/main/license) | Webdev |
 
-# Bindings
+## Bindings
 List of Odin bindings to C/C++ libraries.
 
 | Name | Description | License | Tags |
@@ -36,6 +38,8 @@ List of Odin bindings to C/C++ libraries.
 Dear ImGui is a bloat-free Graphical User interface for C++ with minimal dependencies | [MIT](https://gitlab.com/L-4/odin-imgui/-/blob/main/LICENSE?ref_type=heads) | UI, ImGui, Gamedev, Tools, C++, Cross Platform |
 | [Steamworks](https://github.com/jakubtomsu/odin-steamworks) | Bindings for Valve's Steamworks API | [MIT](https://github.com/jakubtomsu/odin-steamworks/blob/main/LICENSE) | Gamedev |
 | [FMOD](https://github.com/jakubtomsu/odin-fmod) | FMOD is a library for simple adaptive audio for games | [MIT](https://github.com/jakubtomsu/odin-fmod/blob/main/LICENSE) | Gamedev, Audio |
+| [LZ4](https://github.com/jakubtomsu/odin-lz4) | LZ4 is an extremely fast lossless compression algorithm | [MIT](https://github.com/jakubtomsu/odin-lz4/blob/main/LICENSE) | Gamedev, Compression |
+| [Mimalloc](https://github.com/jakubtomsu/odin-mimalloc) | Mimalloc is a compact general purpose allocator with excellent performance | [MIT](https://github.com/jakubtomsu/odin-mimalloc/blob/main/LICENSE) | Gamedev, Memory, Allocator |
 
 # Gists
 Useful Github Gists in Odin.
@@ -75,12 +79,21 @@ List of Odin resources.
 | [5 Reasons why Odinlang is great for gamedev](https://youtu.be/ZBfOUa8wY1I?si=dHMcIkNyOi3cLac4) | Video about what makes odin great for gamedev | Youtube |
 
 
-# Software
+# Open-source Software
 Open-source software implemented in Odin.
 
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
 | [Spall Web](https://github.com/colrdavidson/spall-web) | spall is a profiler library and a web-frontend for exploring your code and digging into potential performance problems | [MIT](https://github.com/colrdavidson/spall-web/blob/master/LICENSE) | Performance, Webdev, WASM, WebGL |
+
+# Closed-Source Software
+A list of interesting software built in Odin. It's not open-source, but it can still be useful or inspiring.
+
+| Name | Description | Tags |
+| ---- | ----------- | ---- |
+| [EmberGen](https://jangafx.com/software/embergen/) | Real-time smoke, fire and explosion simulations for film and games | Gamedev, GPU, Graphics, Physics |
+| [GeoGen](https://jangafx.com/software/geogen/) | Real-time Landscape, terrain and planet generator app | Gamedev, GPU, Graphics |
+
 
 # Links
 - [Discord](https://twitter.com/odinlang)
