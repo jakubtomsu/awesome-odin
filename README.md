@@ -16,7 +16,7 @@ A collection of awesome Odin libraries, software and resources.
 List of libraries implemented in Odin.
 
 | Name | Description | License | Tags |
-| ---- | ----------- | ---- | ------- | ---- |
+| ---- | ----------- | ------- | ---- |
 | [Odin HTTP](https://github.com/laytan/odin-http) | A HTTP/1.1 implementation for Odin purely written in Odin (besides SSL) | [MIT](https://github.com/laytan/odin-http/blob/main/LICENSE) | Web, Server |
 
 # Bindings
