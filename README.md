@@ -84,9 +84,9 @@ Base packages are required by the compiler
 
 | Name | Description |
 | ---- | ----------- |
-| builtin | Contains Odin's predeclared identifiers, like basic types, procedures like `len`, `size_of` etc and many built-in constants like `ODIN_DEBUG`
-| intrinsics | Contains Odin's compiler-level intrinsics, including many low-level procs like atomics, SIMD, X86 or WASM intrinsics and compile-time type reflection
-| runtime | This is the runtime code required by the compiler. Contains definitions of context, allocator, logger, map, dynamic array, type_info etc. and implements things like appending to a dynamic array
+| [builtin](https://pkg.odin-lang.org/base/builtin/) | Contains Odin's predeclared identifiers, like basic types, procedures like `len`, `size_of` etc and many built-in constants like `ODIN_DEBUG`
+| [intrinsics](https://pkg.odin-lang.org/base/intrinsics/) | Contains Odin's compiler-level intrinsics, including many low-level procs like atomics, SIMD, X86 or WASM intrinsics and compile-time type reflection
+| [runtime](https://pkg.odin-lang.org/base/runtime/) | This is the runtime code required by the compiler. Contains definitions of context, allocator, logger, map, dynamic array, type_info etc. and implements things like appending to a dynamic array
 
 ### Core
 The core packages implement most of the common features you need while working with Odin
