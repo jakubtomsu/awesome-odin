@@ -1,4 +1,4 @@
-![logo](logo_small.png)
+![logo](/logo_small.png)
 
 A collection of awesome Odin libraries, software and resources.
 
