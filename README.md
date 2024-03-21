@@ -199,12 +199,16 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 | [EmberGen](https://jangafx.com/software/embergen/) | Real-time smoke, fire and explosion simulations for film and games | Gamedev, GPU, Graphics, Physics |
 | [GeoGen](https://jangafx.com/software/geogen/) | Real-time Landscape, terrain and planet generator app | Gamedev, GPU, Graphics |
 
-
-# Links
-- [Discord](https://twitter.com/odinlang)
-- [Reddit](https://www.reddit.com/r/odinlang/)
-- [Twitter](https://twitter.com/odinlang)
-- [Github](https://github.com/odin-lang/Odin)
+# Editor Support
+| Name                                                    | Description                                     | License
+|---------------------------------------------------------|-------------------------------------------------|-----------------------
+| [OLS](https://github.com/DanielGavin/ols) ⭐              | Odin language server                            | [MIT](https://github.com/DanielGavin/ols/blob/master/LICENSE)
+| [Sublime Text](https://github.com/odin-lang/sublime-odin) | Odin syntax definition for Sublime Text       | [MIT](https://github.com/odin-lang/sublime-odin/blob/master/LICENSE)
+| [GNU/Emacs](https://github.com/mattt-b/odin-mode)       | Odin editing mode for GNU/Emacs                 | None
+| [Flycheck](https://github.com/mattt-b/flycheck-odin) | GNU/Emacs flycheck support for Odin           | [Unlicense](https://github.com/mattt-b/flycheck-odin/blob/master/LICENSE)
+| [4coder](https://github.com/Skytrias/4coder_skytrias) | 4coder customization layer for odin | None
+| [Vim](https://github.com/Tetralux/odin.vim) | Odin highlighting for Vim | [MIT](https://github.com/Tetralux/odin.vim/blob/master/LICENSE)
+| [Tree Sitter](https://github.com/amaanq/tree-sitter-odin) | Odin Tree-sitter grammar | [MIT](https://github.com/ap29600/tree-sitter-odin/blob/main/LICENSE)
 
 # Deprecated
 A list of outdated/deprecated/archives libraries, included for the sake of completeness and in case someone wants to update it.
@@ -212,6 +216,21 @@ A list of outdated/deprecated/archives libraries, included for the sake of compl
 - https://github.com/zhibog/odin-unittest
 - https://github.com/Breush/odin-binding-generator
 - https://github.com/dotbmp/odin-json
+- https://github.com/vassvik/odin-gl
+- https://github.com/JoshuaManton/odin-sdl2
+- https://github.com/kevinw/raylib-odin
+- https://github.com/librg/odin-enet
+- https://github.com/vassvik/odin-stb
+- https://github.com/SrMordred/odin-lua
+- https://github.com/sumofat/odin_cgltf
+- https://github.com/atkurtul/odinvk
+- https://github.com/mp768/odin-lua-bindings
+
+# Links
+- [Discord](https://twitter.com/odinlang)
+- [Reddit](https://www.reddit.com/r/odinlang/)
+- [Twitter](https://twitter.com/odinlang)
+- [Github](https://github.com/odin-lang/Odin)
 
 # Contributions
 Please submit a PR to add any interesting/useful Odin projects! Make sure to properly link license and add useful tags for easier searching.
