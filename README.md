@@ -151,7 +151,7 @@ List of Odin bindings to C/C++ libraries.
 | [bcm2835](https://github.com/Platin21/odin-bcm2835/tree/main) | Bindings for BCM2835 Broadcom chip/raspberry pi1/2/3/4 | [MIT](https://github.com/Platin21/odin-bcm2835/blob/main/LICENSE) | Embedded
 | [Mimalloc](https://github.com/jakubtomsu/odin-mimalloc) | Bindings for [mimalloc](https://github.com/microsoft/mimalloc) | [MIT](https://github.com/jakubtomsu/odin-mimalloc/blob/main/LICENSE) | Memory, Allocator
 | [MySql](https://github.com/laytan/odin-mysql) | Bindings for MySQL Client | [MIT](https://github.com/laytan/odin-mysql/blob/main/LICENSE) | Database, Webdev, SQL
-| [PostgreSQL](https://github.com/laytan/odin-postgresql)]: Complete & documented bindings for [libpq (PostgreSQL)](https://www.postgresql.org/) | [MIT](https://github.com/laytan/odin-postgresql/blob/main/LICENSE) | Database, Webdev, SQL
+| [PostgreSQL](https://github.com/laytan/odin-postgresql) | Complete & documented bindings for [libpq (PostgreSQL)](https://www.postgresql.org/) | [MIT](https://github.com/laytan/odin-postgresql/blob/main/LICENSE) | Database, Webdev, SQL
 | [LZ4](https://github.com/jakubtomsu/odin-lz4) | Bindings for [LZ4](https://github.com/lz4/lz4), an extremely fast lossless compression library | [BSD 2 Clause](https://github.com/jakubtomsu/odin-lz4/blob/main/LICENSE) | Compression, Gamedev
 | [FMOD](https://github.com/jakubtomsu/odin-fmod) | Bindings for [FMOD](https://www.fmod.com/) | [MIT](https://github.com/jakubtomsu/odin-fmod/blob/main/LICENSE) | Gamedev, Audio
 | [Steamworks](https://github.com/jakubtomsu/odin-steamworks) | Bindings for [Steamworks SDK](https://partner.steamgames.com/doc/sdk) | [MIT](https://github.com/jakubtomsu/odin-steamworks/blob/main/LICENSE) | Gamedev
