@@ -235,7 +235,7 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 | [EmberGen](https://jangafx.com/software/embergen/) | Real-time smoke, fire and explosion simulations for film and games | Gamedev, GPU, Graphics, Physics |
 | [GeoGen](https://jangafx.com/software/geogen/) | Real-time Landscape, terrain and planet generator app | Gamedev, GPU, Graphics |
 | [Solar Storm](https://odin-lang.org/showcase/solar_storm) | Sci-fi artillery game with local multiplayer | Gamedev, GPU, Physics
-| [CAT & ONION](https://odin-lang.org/showcase/cat_and_onion/) | A whimsical adventure game about a cat (NOTE: the source code is available if you buy the game on [itch.io ](https://zylinski.itch.io/cat-and-onion) | Gamedev
+| [CAT & ONION](https://odin-lang.org/showcase/cat_and_onion/) | A whimsical adventure game about a cat (NOTE: the source code is available if you buy the game on [itch.io](https://zylinski.itch.io/cat-and-onion)) | Gamedev
 
 # Editor Support
 | Name                                                    | Description                                     | License
