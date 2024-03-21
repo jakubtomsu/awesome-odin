@@ -157,7 +157,7 @@ List of Odin bindings to C/C++ libraries.
 | [Steamworks](https://github.com/jakubtomsu/odin-steamworks) | Bindings for [Steamworks SDK](https://partner.steamgames.com/doc/sdk) | [MIT](https://github.com/jakubtomsu/odin-steamworks/blob/main/LICENSE) | Gamedev
 | [libbfd](https://github.com/wardjm/odin-bfd) | Bindings for [libbfd](https://github.com/CyberGrandChallenge/binutils/tree/master/bfd) | [GPLv2](https://github.com/wardjm/odin-bfd/blob/main/LICENSE) |
 | [EFSW](https://github.com/dch-GH/efsw-odin) | Bindings for the [Entropia file system watcher\(https://github.com/diegostamigni/efsw) | [Unknown](https://github.com/dch-GH/efsw-odin/blob/main/LICENSE) | Files
-
+| [Nuklear](https://github.com/cr15th0f3r/odin-nuklear) | Bindings for [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear), s single-header ANSI C immediate mode cross-platform GUI library |  None | UI, ImGUI, Gamedev, Cross Platform |
 
 
 # Gists
