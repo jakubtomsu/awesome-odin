@@ -4,13 +4,13 @@ A collection of awesome Odin libraries, software and resources.
 
 [Odin](https://odin-lang.org/) is a general-purpose programming language built for high-performance, modern systems and data-oriented programming.
 
-Star (⭐) means the resource is exceptionally good.
+A star (⭐) means the resource is exceptionally good.
 
 > [!NOTE]
 > Some of the lists are based on the [Odin Libs Wiki Page](https://github.com/odin-lang/Odin/wiki/Odin-Libs)
 
 > [!IMPORTANT]
-> Many commonly used bindings are already included in [Vendor Collection](https://pkg.odin-lang.org/vendor/) which comes with the compiler.
+> Many commonly used bindings are already included in the [Vendor Collection](https://pkg.odin-lang.org/vendor/) which comes with the compiler
 
 # Contents
 - [Libraries](#libraries)
@@ -48,12 +48,12 @@ List of libraries implemented in Odin.
 | [LDtk utility](https://github.com/jakubtomsu/odin-ldtk) | Simple loader for LDtk files. LDtk is a moder 2D level editor from the creator of Dead Cells | [MIT](https://github.com/jakubtomsu/odin-ldtk/blob/main/LICENSE) | Gamedev, Assets, Tools
 | [File Formats](https://github.com/Kelimion/odin_file_formats) | Odin implementations of various file formats - ISO, EBML | [BSD-3](https://github.com/Kelimion/odin_file_formats/blob/master/LICENSE.md) | Format
 | [INI Parser](https://github.com/laytan/odin-ini-parser) | .INI file parser | [MIT](https://github.com/laytan/odin-ini-parser/blob/main/LICENSE) | Format
-| [PDB reader](https://github.com/DaseinPhaos/pdb) ⭐ | A library for reading `.pdb`s and dumping Windows stacktraces | [BSD-2-Clause](https://github.com/DaseinPhaos/pdb/blob/main/LICENSE) |
+| [PDB reader](https://github.com/DaseinPhaos/pdb) ⭐ | A library for reading `.pdb`s and dumping Windows stacktraces | [BSD-2-Clause](https://github.com/DaseinPhaos/pdb/blob/main/LICENSE) | Debugging, Auxiliary
 
 ### Networking
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
-| [Odin HTTP](https://github.com/laytan/odin-http) ⭐ | A HTTP/1.1 implementation for Odin purely written in Odin (besides SSL) | [MIT](https://github.com/laytan/odin-http/blob/main/LICENSE) | Webdev, Server, Networking
+| [Odin HTTP](https://github.com/laytan/odin-http) ⭐ | A HTTP/1.1 server & client implementation for Odin purely written in Odin (besides OpenSSL) | [MIT](https://github.com/laytan/odin-http/blob/main/LICENSE) | Webdev, Server, Networking
 | [HTTP](https://github.com/Inch4Tk/odinhttp) | Simple Odin http(s) client | [BSD-3](https://github.com/Inch4Tk/odinhttp/blob/master/LICENSE) | Webdev
 
 ### Webdev
@@ -75,9 +75,8 @@ List of libraries implemented in Odin.
 | [Simple History](https://github.com/Skytrias/simple-history) | A simple undo / redo history | [MIT](https://github.com/Skytrias/simple-history/blob/master/LICENSE) | UI, Gamedev, Tools, Editor
 | [ADS1256 driver](https://github.com/Platin21/ads1256-odin) | Driver for Ti ADS1256 | [MIT](https://github.com/Platin21/odin-bcm2835/blob/main/LICENSE) | Embedded
 | [Mani](https://github.com/DragosPopse/mani) | Lua bidirectional bindings generator | None | Lua, Generator
-| [odin-build](https://github.com/DragosPopse/odin-build) | Build system for Odin | None |
-| [Snowflake](https://github.com/laytan/odin-snowflake) | Twitter Snowflake UID generation | [MIT](https://github.com/laytan/odin-snowflake/blob/main/LICENSE) | Webdev
-| [Pattern matcher](https://github.com/laytan/odin-pattern) | Odin implementation of Lua patterns (their regex alternative) | [MIT](https://github.com/laytan/odin-pattern/blob/main/LICENSE) | Lua, Utility
+| [odin-build](https://github.com/DragosPopse/odin-build) | Build system for Odin | None | Auxiliary, Tooling
+| [Snowflake](https://github.com/laytan/odin-snowflake) | Twitter Snowflake UID generation | [MIT](https://github.com/laytan/odin-snowflake/blob/main/LICENSE) | UID
 | [App Version](https://github.com/wiremoons/app_version) | Generate and display application version information | [MIT](https://github.com/wiremoons/app_version/blob/main/LICENSE) | Tools, Utility, CLI
 | [CLI Argument Parser](https://github.com/GoNZooo/odin-cli) | Using types to specify how command line arguments should be parsed | None | Utility, CLI, Parser
 | [Odin-style CLI Argument Parser](https://github.com/SjVer/ClOdin) | A command-line argument parser mimicking the Odin compiler's style | [MIT](https://github.com/SjVer/ClOdin/blob/main/LICENSE) | CLI, Utility, Parser
@@ -177,7 +176,7 @@ Useful Github Gists in Odin.
 | [Vulkan Example](https://gist.github.com/terickson001/bdaa52ce621a6c7f4120abba8959ffe6) | Vulkan-tutorial example in Odin | Gamedev, Graphics, Vulkan, GLFW, Shaders |
 | [Minimal Metal Window](https://gist.github.com/Lperlind/1bb993a1c0f1acdd49080fd4852f95c5) | Minmal Cocoa Window with Metal API | Gamedev, Darwin, Metal, Cocoa, Graphics |
 | [D3D12 Triangle](https://gist.github.com/jakubtomsu/ecd83e61976d974c7730f9d7ad3e1fd0) | Single-procedure D3D12 triangle example | Gamedev, Graphics, D3D12, Shaders, SDL |
-| [UUIDV4](https://gist.github.com/laytan/9053ea979bdbc5ebb4bf66d4caf5c402) | UUID Generator | Cryptography, Wevdev |
+| [UUIDV4](https://gist.github.com/laytan/9053ea979bdbc5ebb4bf66d4caf5c402) | UUID Generator | UID, Cryptography, Wevdev |
 | [WASM4 Bindings](https://gist.github.com/gingerBill/9a6c0a6f0a34a147ff82e9f6047db2ac) | WASM-4 Bindings | Webdev, WASM, Graphics |
 | [Text Editor](https://gist.github.com/pJotoro/fae7bc4ea3c551d40d2e8d5b67c119d4) | Simple text editor | Graphics, Tools, Editor, UI, Font
 | [Odin logger for Raylib](https://gist.github.com/laytan/e411288bc622eaf09832e752b31c9bc8) | Raylib logging callback to Odin logger | Gamedev, Tools, Utility
@@ -254,18 +253,21 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 # Deprecated
 A list of outdated/deprecated/archives libraries, included for the sake of completeness and in case someone wants to update it.
 
-- https://github.com/zhibog/odin-unittest
-- https://github.com/Breush/odin-binding-generator
-- https://github.com/dotbmp/odin-json
-- https://github.com/vassvik/odin-gl
-- https://github.com/JoshuaManton/odin-sdl2
-- https://github.com/kevinw/raylib-odin
-- https://github.com/librg/odin-enet
-- https://github.com/vassvik/odin-stb
-- https://github.com/SrMordred/odin-lua
-- https://github.com/sumofat/odin_cgltf
-- https://github.com/atkurtul/odinvk
-- https://github.com/mp768/odin-lua-bindings
+| Link | Reason
+|------|--------
+| https://github.com/Breush/odin-binding-generator | Lost interest
+| https://github.com/zhibog/odin-unittest | check out `core:testing`
+| https://github.com/dotbmp/odin-json | check out `core:encoding/json`
+| https://github.com/vassvik/odin-gl | check out `vendor:openGL`
+| https://github.com/JoshuaManton/odin-sdl2 | check out `vendor:sdl2`
+| https://github.com/kevinw/raylib-odin | check out `vendor:raylib`
+| https://github.com/librg/odin-enet | check out `vendor:ENet`
+| https://github.com/vassvik/odin-stb | check out `vendor:stb`
+| https://github.com/sumofat/odin_cgltf | check out `vendor:cgltf`
+| https://github.com/atkurtul/odinvk | check out `vendor:vulkan`
+| https://github.com/SrMordred/odin-lua | check out `vendor:lua`
+| https://github.com/mp768/odin-lua-bindings | check out `vendor:lua`
+| https://github.com/laytan/odin-pattern | check out `core:text/match`
 
 # Links
 - [Discord](https://twitter.com/odinlang)
