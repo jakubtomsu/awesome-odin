@@ -38,6 +38,8 @@ List of libraries implemented in Odin.
 | [LBP Serialization](https://github.com/jakubtomsu/odin-lbp-serialization) | Easy-to-use LBP binary serialization utility | [MIT](https://github.com/jakubtomsu/odin-lbp-serialization/blob/main/LICENSE) | Gamedev, Serialization, Assets
 | [GL Font](https://github.com/vassvik/odin-gl_font) | A library for quickly setting up font rendering | [Missing](https://github.com/vassvik/odin-gl_font/blob/master/LICENSE) | OpenGL, Graphics, Font
 | [jobs](https://github.com/jakubtomsu/jobs) | Job system | [MIT](https://github.com/jakubtomsu/jobs/blob/main/LICENSE) | Gamedev
+| [glcache](https://github.com/DragosPopse/glcache) | Cached OpenGL calls | None | OpenGL, Graphics, Gamedev
+| [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
 
 ### Formats
 | Name | Description | License | Tags |
@@ -74,8 +76,6 @@ List of libraries implemented in Odin.
 | [ADS1256 driver](https://github.com/Platin21/ads1256-odin) | Driver for Ti ADS1256 | [MIT](https://github.com/Platin21/odin-bcm2835/blob/main/LICENSE) | Embedded
 | [Mani](https://github.com/DragosPopse/mani) | Lua bidirectional bindings generator | None | Lua, Generator
 | [odin-build](https://github.com/DragosPopse/odin-build) | Build system for Odin | None |
-| [glcache](https://github.com/DragosPopse/glcache) | Cached OpenGL calls | None | OpenGL, Graphics, Gamedev
-| [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
 | [Snowflake](https://github.com/laytan/odin-snowflake) | Twitter Snowflake UID generation | [MIT](https://github.com/laytan/odin-snowflake/blob/main/LICENSE) | Webdev
 | [Pattern matcher](https://github.com/laytan/odin-pattern) | Odin implementation of Lua patterns (their regex alternative) | [MIT](https://github.com/laytan/odin-pattern/blob/main/LICENSE) | Lua, Utility
 | [App Version](https://github.com/wiremoons/app_version) | Generate and display application version information | [MIT](https://github.com/wiremoons/app_version/blob/main/LICENSE) | Tools, Utility, CLI
