@@ -129,6 +129,7 @@ Vendor packages are commonly-used third-party libraries distributed along with t
 | [cgltf](https://pkg.odin-lang.org/vendor/cgltf/)                 | Bindings for a GLTF asset loader | Gamedev, Graphics, Format, Assets
 | [darwin/Metal](https://pkg.odin-lang.org/vendor/darwin/Metal/)   | Bindings for Metal API | Gamedev, Graphics, 3D
 | [stb](https://pkg.odin-lang.org/vendor/stb/)                     | Bindings for libs from [STB](https://github.com/nothings/stb) | Format, Gamedev, Assets, Utility
+| [sdl2](https://pkg.odin-lang.org/vendor/sdl2/)                   | Bindings for [SDL2](https://www.libsdl.org), a cross-platform development library | Gamedev, Graphics, Audio, Networking                    
 
 ## Bindings
 List of Odin bindings to C/C++ libraries.
