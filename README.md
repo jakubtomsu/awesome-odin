@@ -255,7 +255,7 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 | [Tree Sitter](https://github.com/amaanq/tree-sitter-odin) | Odin Tree-sitter grammar | [MIT](https://github.com/ap29600/tree-sitter-odin/blob/main/LICENSE)
 
 # Deprecated
-A list of outdated/deprecated/archives libraries, included for the sake of completeness and in case someone wants to update it.
+A list of outdated/deprecated/archived libraries, included for the sake of completeness and in case someone wants to update it.
 
 | Link | Reason
 |------|--------
