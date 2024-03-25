@@ -49,6 +49,7 @@ List of libraries implemented in Odin.
 | [File Formats](https://github.com/Kelimion/odin_file_formats) | Odin implementations of various file formats - ISO, EBML | [BSD-3](https://github.com/Kelimion/odin_file_formats/blob/master/LICENSE.md) | Format
 | [INI Parser](https://github.com/laytan/odin-ini-parser) | .INI file parser | [MIT](https://github.com/laytan/odin-ini-parser/blob/main/LICENSE) | Format
 | [PDB reader](https://github.com/DaseinPhaos/pdb) ⭐ | A library for reading `.pdb`s and dumping Windows stacktraces | [BSD-2-Clause](https://github.com/DaseinPhaos/pdb/blob/main/LICENSE) | Debugging, Auxiliary
+| [Java classfile parser](https://github.com/FourteenBrush/Classreader) | A parser and verifier for Java `.class` files | [MIT](https://github.com/FourteenBrush/Classreader/blob/main/LICENSE) | Format, Java classfile
 
 ### Networking
 | Name | Description | License | Tags |
