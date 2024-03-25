@@ -40,7 +40,7 @@ List of libraries implemented in Odin.
 | [jobs](https://github.com/jakubtomsu/jobs) | Job system | [MIT](https://github.com/jakubtomsu/jobs/blob/main/LICENSE) | Gamedev
 | [glcache](https://github.com/DragosPopse/glcache) | Cached OpenGL calls | None | OpenGL, Graphics, Gamedev
 | [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
-| [Godot Toolkit](https://github.com/dresswithpockets/odin-godot) | Toolkit for Godot 4.0 to work with GDExtension and generating boilerplate | Gamedev, Engine, Utility
+| [Godot Toolkit](https://github.com/dresswithpockets/odin-godot) | Toolkit for Godot 4.0 to work with GDExtension and generating boilerplate | [Apache 2.0](https://github.com/dresswithpockets/odin-godot/blob/main/LICENSE) | Gamedev, Engine, Utility
 
 ### Formats
 | Name | Description | License | Tags |
@@ -164,10 +164,10 @@ List of Odin bindings to C/C++ libraries.
 | [Box2C](https://gitlab.com/L-4/odin-box2c) | Idiomatic Odin bindings for Box2c (aka Box2D 3.0, not to be confused with older versions which were written in C++!) | None | Gamedev, Physics
 | [Box2C (Odin-style)](https://github.com/cr15th0f3r/odin-box2d) | Box2D 3.0 bindings for Odin language | None | Gamedev, Physics
 | [Sokol](https://github.com/floooh/sokol-odin/) ⭐ | Odin bindings for [Sokol](https://github.com/floooh/sokol/), a collection of single-header C libraries for cross-platform windowing, graphics, audio, file loading, and more! | [zlib](https://github.com/floooh/sokol/blob/master/LICENSE) | Gamedev, Input, Audio, Cross-Platform
-| [WGPU](https://github.com/UsiTarek/wgpu-odin) | Bindings for [WGPU](https://sotrh.github.io/learn-wgpu/) | Gamedev, GPU, WGPU, Graphics
-| [libpcap](https://github.com/Pix-xiP/odin-libpcap) | Bindings for [libpcap](https://github.com/the-tcpdump-group/libpcap) | Networking
-| [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | Gamedev, 3D, Physics
-| [libui-ng](https://github.com/henkman/odin-libui-ng) | Bindings for [libui-ng](https://github.com/libui-ng/libui-ng): a portable GUI library for C. "libui for the next generation" | UI, Tools
+| [WGPU](https://github.com/UsiTarek/wgpu-odin) | Bindings for [WGPU](https://sotrh.github.io/learn-wgpu/) | [Apache 2.0](https://github.com/UsiTarek/wgpu-odin/blob/main/LICENSE) | Gamedev, GPU, WGPU, Graphics
+| [libpcap](https://github.com/Pix-xiP/odin-libpcap) | Bindings for [libpcap](https://github.com/the-tcpdump-group/libpcap) | None | Networking
+| [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
+| [libui-ng](https://github.com/henkman/odin-libui-ng) | Bindings for [libui-ng](https://github.com/libui-ng/libui-ng): a portable GUI library for C. "libui for the next generation" | None | UI, Tools
 
 # Gists
 Useful Github Gists in Odin.
