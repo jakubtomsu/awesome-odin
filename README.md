@@ -63,6 +63,12 @@ List of libraries implemented in Odin.
 | ---- | ----------- | ------- | ---- |
 | [GraphQL Parser](https://github.com/thetarnav/odin-graphql-parser) | GraphQL language parser | [MIT](https://github.com/thetarnav/odin-graphql-parser/blob/main/license) | Webdev
 
+### Templating
+
+| Name | Description | License | Tags |
+| ---- | ----------- | ------- | ---- |
+| [Mustache](https://github.com/benjamindblock/odin-mustache) | Mustache logic-less templating engine | [MIT](https://github.com/benjamindblock/odin-mustache/blob/main/LICENSE) | Template, Webdev
+| [Temple](https://github.com/laytan/temple) | Templating engine that compiles to Odin io calls | None | Template, Webdev
 
 ### Data structures
 | Name | Description | License | Tags |
