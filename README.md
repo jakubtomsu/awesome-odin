@@ -25,6 +25,15 @@ A star (⭐) means the resource is exceptionally good.
 - [Core Library Collection](https://pkg.odin-lang.org/core/)
 - [Vendor Library Collection](https://pkg.odin-lang.org/vendor/)
 
+## Tags
+Many lists include a "tags" secion. The goal is to make it very easy to find a resource/library for specific type, even if it falls into multiple categories.
+
+Notable tags:
+- Gamedev - related to game or engine development
+- Graphics - graphics programming
+- Format - an implementation of a data format specification
+- Wevdev - related to frontend or backend web development
+
 # Packages
 ## Libraries
 List of libraries implemented in Odin.
@@ -174,6 +183,7 @@ List of Odin bindings to C/C++ libraries.
 | [libpcap](https://github.com/Pix-xiP/odin-libpcap) | Bindings for [libpcap](https://github.com/the-tcpdump-group/libpcap) | None | Networking
 | [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
 | [libui-ng](https://github.com/henkman/odin-libui-ng) | Bindings for [libui-ng](https://github.com/libui-ng/libui-ng): a portable GUI library for C. "libui for the next generation" | None | UI, Tools
+| [LLVM](https://github.com/DeLuxe-1337/LLVM-Odin) | Generated bindings for [LLVM](https://llvm.org/) (LLVM-C 17.0.1), currently Windows-only | Compilers
 
 # Gists
 Useful Github Gists in Odin.
