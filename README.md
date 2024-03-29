@@ -228,6 +228,7 @@ List of Odin tutorials, articles, videos and other resources.
 | [Solar Storm Renderer](https://jakubtomsu.github.io/posts/solar_storm_renderer/) | A deepdive into the rendering techology of the game Solar Storm | Article
 | [Hot Reload](https://zylinski.se/posts/hot-reload-gameplay-code/) | Hot reload gameplay code. What, why, limitations and examples! | Gamedev, Utility, Article
 | [Raylib + Odin + WASM](https://github.com/Caedo/raylib_wasm_odin) | Experiment with using Raylib + Odin on web | Gamedev, Raylib, WASM, Example
+| [Sokol WASM Playground](https://github.com/colinbellino/odin_sokol_wasm_playground) | Example of Sokol and Odin on web using emscripten | Gamedev, Sokol, WASM, Example
 
 
 ## Interviews
