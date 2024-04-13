@@ -50,6 +50,7 @@ List of libraries implemented in Odin.
 | [glcache](https://github.com/DragosPopse/glcache) | Cached OpenGL calls | None | OpenGL, Graphics, Gamedev
 | [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
 | [Godot Toolkit](https://github.com/dresswithpockets/odin-godot) | Toolkit for Godot 4.0 to work with GDExtension and generating boilerplate | [Apache 2.0](https://github.com/dresswithpockets/odin-godot/blob/main/LICENSE) | Gamedev, Engine, Utility
+| [glTF2](https://github.com/Pawel82S/glTF2) | Native Odin implementation of glTF2 loading file format | [MIT](https://github.com/Pawel82S/glTF2/blob/master/LICENSE) | Gamedev, Format, 3D
 
 ### Formats
 | Name | Description | License | Tags |
@@ -183,10 +184,10 @@ List of Odin bindings to C/C++ libraries.
 | [libpcap](https://github.com/Pix-xiP/odin-libpcap) | Bindings for [libpcap](https://github.com/the-tcpdump-group/libpcap) | None | Networking
 | [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
 | [libui-ng](https://github.com/henkman/odin-libui-ng) | Bindings for [libui-ng](https://github.com/libui-ng/libui-ng): a portable GUI library for C. "libui for the next generation" | None | UI, Tools
-| [LLVM](https://github.com/DeLuxe-1337/LLVM-Odin) | Generated bindings for [LLVM](https://llvm.org/) (LLVM-C 17.0.1), currently Windows-only | Compilers
-| [ffmpeg](https://github.com/numbers-zz/odin-ffmpeg-bindings) | Bindings for [ffmpeg](https://ffmpeg.org/), a complete, cross-platform solution to record, convert and stream audio and video | Video
-| [meshoptimizer](https://github.com/DanielGavin/odin-meshoptimizer) | Bindings for [meshoptimizer](https://github.com/zeux/meshoptimizer), a mesh optimization library that makes meshes smaller and faster to render | Gamedev, Graphics, 3D, Tools
-| [m3d](https://github.com/cr1sth0fer/odin-m3d) | Bindings for [model3d](https://gitlab.com/bztsrc/model3d) format, a 3D model format specification and single header SDK. Supports skeletal animations, voxels and has the best data density | Gamedev, Graphics, 3D, Format
+| [LLVM](https://github.com/DeLuxe-1337/LLVM-Odin) | Generated bindings for [LLVM](https://llvm.org/) (LLVM-C 17.0.1), currently Windows-only | None | Compilers
+| [ffmpeg](https://github.com/numbers-zz/odin-ffmpeg-bindings) | Bindings for [ffmpeg](https://ffmpeg.org/), a complete, cross-platform solution to record, convert and stream audio and video | None | Video
+| [meshoptimizer](https://github.com/DanielGavin/odin-meshoptimizer) | Bindings for [meshoptimizer](https://github.com/zeux/meshoptimizer), a mesh optimization library that makes meshes smaller and faster to render | None | Gamedev, Graphics, 3D, Tools
+| [m3d](https://github.com/cr1sth0fer/odin-m3d) | Bindings for [model3d](https://gitlab.com/bztsrc/model3d) format, a 3D model format specification and single header SDK. Supports skeletal animations, voxels and has the best data density | None | Gamedev, Graphics, 3D, Format
 
 # Gists
 Useful Github Gists in Odin.
