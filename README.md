@@ -214,6 +214,7 @@ Useful Github Gists in Odin.
 | [Text Editor](https://gist.github.com/pJotoro/fae7bc4ea3c551d40d2e8d5b67c119d4) | Simple text editor | Graphics, Tools, Editor, UI, Font
 | [Odin logger for Raylib](https://gist.github.com/laytan/e411288bc622eaf09832e752b31c9bc8) | Raylib logging callback to Odin logger | Gamedev, Tools, Utility
 | [GLFW and Vulkan Boilerplate](https://gist.github.com/laytan/ba57af3e5a59ab5cb2fca9e25bcfe262) | Odin, GLFW & Vulkan boilerplate for Drawing a Triangle based on https://vulkan-tutorial.com | Gamedev, Graphics, Vulkan, GLFW, Shaders
+| [LLDB visualization](https://gist.github.com/laytan/a94c323a84cef7bcfbdf6d21987fd5a9) | Python script for slice, map, and string formatting in LLDB | Debugger, Tools, Utility
 
 # Resources
 List of Odin tutorials, articles, videos and other resources.
