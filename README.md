@@ -44,6 +44,7 @@ List of libraries implemented in Odin.
 ### Gamedev
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
+| [Jamgine](https://github.com/asbott/jamgine/tree/audio) | Self-contained realtime graphical application engine with a simplistic design philosophy | [MIT](https://github.com/asbott/jamgine/blob/main/LICENSE) | Gamedev, Engine, Graphics, Vulkan
 | [LBP Serialization](https://github.com/jakubtomsu/odin-lbp-serialization) | Easy-to-use LBP binary serialization utility | [MIT](https://github.com/jakubtomsu/odin-lbp-serialization/blob/main/LICENSE) | Gamedev, Serialization, Assets
 | [GL Font](https://github.com/vassvik/odin-gl_font) | A library for quickly setting up font rendering | [Missing](https://github.com/vassvik/odin-gl_font/blob/master/LICENSE) | OpenGL, Graphics, Font
 | [jobs](https://github.com/jakubtomsu/jobs) | Job system | [MIT](https://github.com/jakubtomsu/jobs/blob/main/LICENSE) | Gamedev
@@ -53,6 +54,8 @@ List of libraries implemented in Odin.
 | [glTF2](https://github.com/Pawel82S/glTF2) ⭐ | Native Odin implementation of glTF2 loading file format | [MIT](https://github.com/Pawel82S/glTF2/blob/master/LICENSE) | Gamedev, Format, 3D
 | [Aseprite loader](https://github.com/blob1807/odin-aseprite) | Handler for Aseprite's .ase/.aseprite, .aseprite-extension & extended .gpl files writen in Odin | [BSD 3-Clause](https://github.com/blob1807/odin-aseprite/blob/main/LICENSE) | Gamedev, 2D, Format
 | [Odin + Raylib Hotreloading Template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) | An Odin + Raylib game template with Hot Reloading pre-setup. My game projects tend to have some things in common, so I made this template so I can get up and running quicker | [Custom](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template/blob/main/LICENSE) | Gamedev, Template, Raylib
+| [Anima](https://github.com/atomicptr/anima) | A 2D animation library for Odin. Inspired by the LÖVE library [anim8](https://github.com/kikito/anim8) | [MIT](https://github.com/atomicptr/anima/blob/master/LICENSE) | Gamedev, 2D, Utility, Raylib
+| [ZTME](https://github.com/Z7-Z7L/ZTME) | Simple Tile Editor Made For Raylib In Odin | [MIT](https://github.com/Z7-Z7L/ZTME?tab=MIT-1-ov-file#readme) | Gamedev, 2D, Utility, Editor, Raylib
 
 ### Formats
 | Name | Description | License | Tags |
@@ -63,6 +66,7 @@ List of libraries implemented in Odin.
 | [INI Parser](https://github.com/laytan/odin-ini-parser) | .INI file parser | [MIT](https://github.com/laytan/odin-ini-parser/blob/main/LICENSE) | Format
 | [PDB reader](https://github.com/DaseinPhaos/pdb) ⭐ | A library for reading `.pdb`s and dumping Windows stacktraces | [BSD-2-Clause](https://github.com/DaseinPhaos/pdb/blob/main/LICENSE) | Debugging, Auxiliary
 | [Java classfile parser](https://github.com/FourteenBrush/Classreader) | A parser and verifier for Java `.class` files | [MIT](https://github.com/FourteenBrush/Classreader/blob/main/LICENSE) | Format, Java classfile
+| [RFC 3339 Date Parser](https://github.com/Up05/odin-RFC-3339-date-parser) | Parser for the RFC 3339 date & time spec written in odin, follows the TOML spec | None | Format, Parser
 
 ### Networking
 | Name | Description | License | Tags |
@@ -192,6 +196,8 @@ List of Odin bindings to C/C++ libraries.
 | [m3d](https://github.com/cr1sth0fer/odin-m3d) | Bindings for [model3d](https://gitlab.com/bztsrc/model3d) format, a 3D model format specification and single header SDK. Supports skeletal animations, voxels and has the best data density | None | Gamedev, Graphics, 3D, Format
 | [OpenAL](https://github.com/elvodqa/odin-al) | Bindings for [OpenAL](https://www.openal.org/), a cross-platform 3D audio API appropriate for use with gaming applications and many other types of audio applications | None | Gamedev, Audio
 | [Luau](https://github.com/MineBill/odin-luau) | A fast, small, safe, gradually typed embeddable scripting language derived from Lua | [MIT](https://github.com/MineBill/odin-luau/blob/master/LICENSE) | Language, Lua
+| [Assimp](https://github.com/CoolDove/odin-assimp/tree/master) | Bindings for [Assimp](https://assimp.org/), Open Asset Import Library is a library to load various 3d file formats into a shared, in-memory imediate format. It supports more than 40 file formats for import and a growing selection of file formats for export | [MIT](https://github.com/CoolDove/odin-assimp/blob/master/LICENSE) | Assets, Gamedev, Format
+| [DuckDB](https://github.com/lionel626/duckdb-odin) | Bindings for [DuckDB](https://duckdb.org/), a fast in-process analytical database | [MIT](https://github.com/lionel626/duckdb-odin/blob/dev/LICENSE) | Webdev, Database, SQL
 
 # Gists
 Useful Github Gists in Odin.
@@ -237,6 +243,8 @@ List of Odin tutorials, articles, videos and other resources.
 | [Hot Reload](https://zylinski.se/posts/hot-reload-gameplay-code/) | Hot reload gameplay code. What, why, limitations and examples! | Gamedev, Utility, Article
 | [Raylib + Odin + WASM](https://github.com/Caedo/raylib_wasm_odin) | Experiment with using Raylib + Odin on web | Gamedev, Raylib, WASM, Example
 | [Sokol WASM Playground](https://github.com/colinbellino/odin_sokol_wasm_playground) | Example of Sokol and Odin on web using emscripten | Gamedev, Sokol, WASM, Example
+| [Odin OpenCV Demo](https://github.com/yevhen-k/opencv-odin-demo/) | Odin with OpenCV image processing demo | OpenCV, Demo
+| [Playing audio files with miniaudio](https://gist.github.com/p1xelHer0/abed4728096ea3a88af7802cbe46cf08) | Play audio files from memory with Odin #load | Miniaudio, Audio, Demo
 
 ## Interviews
 - [ThePrimeagen - Odin Creator Ginger Bill Talks Odin](https://youtu.be/nVa9mgRcVPs?si=Thf2agqoYtYYsXIR)
@@ -264,6 +272,7 @@ Open-source software implemented in Odin.
 | [HTMX Example TODO List App](https://github.com/laytan/todomvc-odin-htmx) | An implementation of Todo MVC using my in development Odin web stack. | None | Webdev, Tools
 | [Dungeon of Quake](https://github.com/jakubtomsu/dungeon-of-quake) | Retro FPS game inspired by Quake | [MIT or Public Domain](https://github.com/jakubtomsu/dungeon-of-quake/blob/main/LICENSE) | Raylib, Gamedev, 3D, Shaders
 | [LD55 - The Last Summoner](https://github.com/atomicptr/ld55) | LD55 entry made with Odin and Raylib. You are the last summoner alive in an apocalypse and you have to survivor using your summons! | Gamedev, Raylib
+| [Asterboids](https://github.com/keenanwoodall/asterboids) | Rogue-like space shooter. Made with Odin + Raylib | [MIT](https://github.com/keenanwoodall/asterboids/blob/main/LICENSE.txt) | Game, Gamedev, Raylib, 2D
 
 
 ## Closed-Source Software
