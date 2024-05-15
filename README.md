@@ -38,9 +38,6 @@ Notable tags:
 ## Libraries
 List of libraries implemented in Odin.
 
-> [!NOTE]
-> Resources have tags based on their topics for easier CTRL+F search
-
 ### Gamedev
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
