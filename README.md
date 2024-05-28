@@ -142,7 +142,7 @@ Vendor packages are commonly-used third-party libraries distributed along with t
 | ---- | ----------- | ---- |
 | [raylib](https://pkg.odin-lang.org/vendor/raylib/) ⭐               | Bindings for [Raylib](https://www.raylib.com/index.html), a simple and easy-to-use library to enjoy videogames programming | Gamedev, Graphics
 | [glfw](https://pkg.odin-lang.org/vendor/glfw/)                   | Bindings for [GLFW](https://www.glfw.org/), a multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop | Gamedev, Graphics
-| [lua](https://pkg.odin-lang.org/vendor/lua/)                     | Bindings for [Lua](https://www.lua.org/about), a powerful, simple and embeddable scripting language | Lua
+| [lua](https://pkg.odin-lang.org/vendor/lua/5.4)                     | Bindings for [Lua](https://www.lua.org/about), a powerful, simple and embeddable scripting language | Lua
 | [fontstash](https://pkg.odin-lang.org/vendor/fontstash/)         | Odin implementation of [Fontstash](https://github.com/memononen/fontstash) - a lightweight online font texture atlas builder | Gamedev, Text, Graphics
 | [miniaudio](https://pkg.odin-lang.org/vendor/miniaudio/)         | Bindings for [Miniaudio](https://miniaud.io/), a lightweight audio library | Audio, Gamedev
 | [microui](https://pkg.odin-lang.org/vendor/microui/)             | Odin implementation of [microui](https://github.com/rxi/microui), a tiny immediate-mode UI library | UI, Tools, ImGui, Gamedev
