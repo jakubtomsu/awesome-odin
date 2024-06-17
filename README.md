@@ -53,6 +53,7 @@ List of libraries implemented in Odin.
 | [Odin + Raylib Hotreloading Template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) | An Odin + Raylib game template with Hot Reloading pre-setup. My game projects tend to have some things in common, so I made this template so I can get up and running quicker | [Custom](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template/blob/main/LICENSE) | Gamedev, Template, Raylib
 | [Anima](https://github.com/atomicptr/anima) | A 2D animation library for Odin. Inspired by the LÖVE library [anim8](https://github.com/kikito/anim8) | [MIT](https://github.com/atomicptr/anima/blob/master/LICENSE) | Gamedev, 2D, Utility, Raylib
 | [ZTME](https://github.com/Z7-Z7L/ZTME) | Simple Tile Editor Made For Raylib In Odin | [MIT](https://github.com/Z7-Z7L/ZTME?tab=MIT-1-ov-file#readme) | Gamedev, 2D, Utility, Editor, Raylib
+| [pathgrid](https://github.com/scoobery/odin_pathgrid) | A simple 2D grid-based pathfinding library for Odin | [BSD 3-Clause "New" or "Revised"](https://github.com/scoobery/odin_pathgrid/blob/master/LICENSE)
 
 ### Formats
 | Name | Description | License | Tags |
