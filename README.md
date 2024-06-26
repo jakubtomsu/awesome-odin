@@ -275,6 +275,7 @@ Open-source software implemented in Odin.
 | [Dungeon of Quake](https://github.com/jakubtomsu/dungeon-of-quake) | Retro FPS game inspired by Quake | [MIT or Public Domain](https://github.com/jakubtomsu/dungeon-of-quake/blob/main/LICENSE) | Raylib, Gamedev, 3D, Shaders
 | [LD55 - The Last Summoner](https://github.com/atomicptr/ld55) | LD55 entry made with Odin and Raylib. You are the last summoner alive in an apocalypse and you have to survivor using your summons! | Gamedev, Raylib
 | [Asterboids](https://github.com/keenanwoodall/asterboids) | Rogue-like space shooter. Made with Odin + Raylib | [MIT](https://github.com/keenanwoodall/asterboids/blob/main/LICENSE.txt) | Game, Gamedev, Raylib, 2D
+| [Voxel Game](https://github.com/kyumikek/voxel-game) | A WIP voxel game engine inspired by minecraft | None | Game, Gamedev, Raylib, 3D
 
 
 ## Closed-Source Software
