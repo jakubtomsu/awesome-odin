@@ -1,6 +1,6 @@
 ![logo](assets/logo_small.png)
 
-A collection of awesome Odin libraries, software and resources.
+A curated list of awesome Odin libraries, software and resources.
 
 [Odin](https://odin-lang.org/) is a general-purpose programming language built for high-performance, modern systems and data-oriented programming.
 
