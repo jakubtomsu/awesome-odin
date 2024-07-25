@@ -197,6 +197,7 @@ List of Odin bindings to C/C++ libraries.
 | [Assimp](https://github.com/CoolDove/odin-assimp/tree/master) | Bindings for [Assimp](https://assimp.org/), Open Asset Import Library is a library to load various 3d file formats into a shared, in-memory imediate format. It supports more than 40 file formats for import and a growing selection of file formats for export | [MIT](https://github.com/CoolDove/odin-assimp/blob/master/LICENSE) | Assets, Gamedev, Format
 | [DuckDB](https://github.com/lionel626/duckdb-odin) | Bindings for [DuckDB](https://duckdb.org/), a fast in-process analytical database | [MIT](https://github.com/lionel626/duckdb-odin/blob/dev/LICENSE) | Webdev, Database, SQL
 | [WebUI](https://github.com/webui-dev/odin-webui) | Bindings for [WebUI](https://github.com/webui-dev/webui), use your preferred language in the backend and modern web technologies in the frontend | [MIT](https://github.com/webui-dev/odin-webui/blob/main/LICENSE) | UI, Cross Platform
+| [odin-renderdoc](https://github.com/2nafish117/odin-renderdoc) | Bindings for [Renderdoc API](https://github.com/baldurk/renderdoc/blob/v1.x/renderdoc/api/app/renderdoc_app.h), capture frames and open Renderdoc UI directly from your application | [MIT](https://github.com/2nafish117/odin-renderdoc/blob/main/LICENSE) | Gamedev, Graphics
 
 # Gists
 Useful Github Gists in Odin.
