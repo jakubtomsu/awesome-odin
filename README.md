@@ -77,6 +77,7 @@ List of libraries implemented in Odin
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
 | [GraphQL Parser](https://github.com/thetarnav/odin-graphql-parser) | GraphQL language parser | [MIT](https://github.com/thetarnav/odin-graphql-parser/blob/main/license) | Webdev
+| [OstrichDB](https://github.com/Solitude-Software-Solutions/OstrichDB) | A document-based NoSQL, SQLite-esque database for local machine use, ideal for beginners creating and testing backends and application data | [Apache 2.0](https://github.com/Solitude-Software-Solutions/OstrichDB/blob/main/LICENCE) | Database
 
 ### Templating
 
