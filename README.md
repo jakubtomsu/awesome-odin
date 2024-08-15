@@ -272,7 +272,6 @@ A linter is built into the compiler, see `odin help check`, specifically the `-v
 
 - [[DanielGavin/ols](https://github.com/DanielGavin/ols)]: Language Server / Editor Support ![GitHub last commit](https://img.shields.io/github/last-commit/DanielGavin/ols)
   - also contains a standalone formatter in the `tools/odinfmt` directory
-- [[obiwan87/odin-intellij](https://plugins.jetbrains.com/plugin/22933-odin-support)]: Editor Support for Intellij IDEs ![GitHub last commit](https://img.shields.io/github/last-commit/obiwan87/odin-intellij)
 - [[jtakakura/asdf-odin](https://github.com/jtakakura/asdf-odin)]: Plugin for the asdf version/package manager ![GitHub last commit](https://img.shields.io/github/last-commit/jtakakura/asdf-odin)
 - [[laytan/setup-odin](https://github.com/laytan/setup-odin)]: GitHub action for setting up the compiler ![GitHub last commit](https://img.shields.io/github/last-commit/laytan/setup-odin)
 - [[Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools)]: Portable, simple and fast installer for Visual Studio Build Tools ![GitHub last commit](https://img.shields.io/github/last-commit/Data-Oriented-House/PortableBuildTools)
@@ -313,6 +312,7 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 | Name                                                    | Description                                     | License
 |---------------------------------------------------------|-------------------------------------------------|-----------------------
 | [OLS](https://github.com/DanielGavin/ols) ⭐              | Odin language server                            | [MIT](https://github.com/DanielGavin/ols/blob/master/LICENSE)
+| [JetBrains IDEs like IntelliJ](https://github.com/obiwan87/odin-intellij) | Odin support with static code analysis | [MIT](https://plugins.jetbrains.com/plugin/22933-odin-support) |
 | [Sublime Text](https://github.com/odin-lang/sublime-odin) | Odin syntax definition for Sublime Text       | [MIT](https://github.com/odin-lang/sublime-odin/blob/master/LICENSE)
 | [GNU/Emacs](https://github.com/mattt-b/odin-mode)       | Odin editing mode for GNU/Emacs                 | None
 | [Flycheck](https://github.com/mattt-b/flycheck-odin) | GNU/Emacs flycheck support for Odin           | [Unlicense](https://github.com/mattt-b/flycheck-odin/blob/master/LICENSE)
