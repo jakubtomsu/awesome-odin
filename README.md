@@ -312,7 +312,7 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 | Name                                                    | Description                                     | License
 |---------------------------------------------------------|-------------------------------------------------|-----------------------
 | [OLS](https://github.com/DanielGavin/ols) ⭐              | Odin language server                            | [MIT](https://github.com/DanielGavin/ols/blob/master/LICENSE)
-| [JetBrains IDEs like IntelliJ](https://github.com/obiwan87/odin-intellij) | Odin support with static code analysis | [MIT](https://plugins.jetbrains.com/plugin/22933-odin-support) |
+| [JetBrains IDEs](https://github.com/obiwan87/odin-intellij) | Odin support with static code analysis for IntelliJ and others | [MIT](https://plugins.jetbrains.com/plugin/22933-odin-support) |
 | [Sublime Text](https://github.com/odin-lang/sublime-odin) | Odin syntax definition for Sublime Text       | [MIT](https://github.com/odin-lang/sublime-odin/blob/master/LICENSE)
 | [GNU/Emacs](https://github.com/mattt-b/odin-mode)       | Odin editing mode for GNU/Emacs                 | None
 | [Flycheck](https://github.com/mattt-b/flycheck-odin) | GNU/Emacs flycheck support for Odin           | [Unlicense](https://github.com/mattt-b/flycheck-odin/blob/master/LICENSE)
