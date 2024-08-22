@@ -175,6 +175,7 @@ List of Odin bindings to C/C++ libraries.
 | [FMOD](https://github.com/jakubtomsu/odin-fmod) | Bindings for [FMOD](https://www.fmod.com/) | [MIT](https://github.com/jakubtomsu/odin-fmod/blob/main/LICENSE) | Gamedev, Audio
 | [Freetype](https://github.com/englerj/odin-freetype) | A binding for [FreeType](https://www.freetype.org/) | [MIT](https://github.com/englerj/odin-freetype/blob/main/LICENSE) | Graphics, Text, Gamedev
 | [GameInput](https://github.com/cstrachan88/odin-gameinput) | Bindings for Microsoft's GameInput SDK | [CC0-1.0](https://github.com/cstrachan88/odin-gameinput/blob/main/LICENSE) | Gamedev, Windows
+| [harfbuzz](https://codeberg.org/mgavioli/odin-harfbuzz) | Bindings for [HarfBuzz](https://github.com/harfbuzz/harfbuzz) | [BSD 2-clause](https://codeberg.org/mgavioli/odin-harfbuzz/src/branch/main/LICENSE.md) | Text
 | [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
 | [libbfd](https://github.com/wardjm/odin-bfd) | Bindings for [libbfd](https://github.com/CyberGrandChallenge/binutils/tree/master/bfd) | [GPLv2](https://github.com/wardjm/odin-bfd/blob/main/LICENSE) |
 | [LibClang](https://github.com/Platin21/odin-clang) | Bindings for libClang for Odin | None |
@@ -196,6 +197,7 @@ List of Odin bindings to C/C++ libraries.
 | [OpenAL](https://github.com/elvodqa/odin-al) | Bindings for [OpenAL](https://www.openal.org/), a cross-platform 3D audio API appropriate for use with gaming applications and many other types of audio applications | None | Gamedev, Audio
 | [OpenAL](https://github.com/thebirk/odin-al)               | A binding for [OpenAL](https://www.openal.org), a cross-platform 3D audio API | [MIT](https://github.com/thebirk/odin-al/blob/master/LICENSE) | Gamedev, Audio |
 | [PostgreSQL](https://github.com/laytan/odin-postgresql) | Complete & documented bindings for [libpq (PostgreSQL)](https://www.postgresql.org/) | [MIT](https://github.com/laytan/odin-postgresql/blob/main/LICENSE) | Database, Webdev, SQL
+| [Raqm](https://codeberg.org/mgavioli/odin-raqm) | Bindings for [Raqm](https://github.com/HOST-Oman/libraqm) | [BSD 2-clause](https://codeberg.org/mgavioli/odin-raqm/src/branch/main/LICENSE.md) | Text
 | [RGFW](https://github.com/ColleagueRiley/RGFW-Odin) | RGFW is a cross platform, lightweight, single header window abstraction library for creating and managing windows | [CC0](https://github.com/ColleagueRiley/RGFW-Odin/blob/main/LICENSE) | Gamedev, Graphics, Platform
 | [Rift](https://github.com/vassvik/odin-rift)           | A binding for the Oculus Rift SDK for VR | [Unlicense](https://github.com/vassvik/odin-rift/blob/master/LICENSE) | Gamedev, VR
 | [Sokol](https://github.com/floooh/sokol-odin/) ⭐ | Odin bindings for [Sokol](https://github.com/floooh/sokol/), a collection of single-header C libraries for cross-platform windowing, graphics, audio, file loading, and more! | [zlib](https://github.com/floooh/sokol/blob/master/LICENSE) | Gamedev, Input, Audio, Cross-Platform
