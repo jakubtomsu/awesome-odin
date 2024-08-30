@@ -176,6 +176,7 @@ List of Odin bindings to C/C++ libraries.
 | [Freetype](https://github.com/englerj/odin-freetype) | A binding for [FreeType](https://www.freetype.org/) | [MIT](https://github.com/englerj/odin-freetype/blob/main/LICENSE) | Graphics, Text, Gamedev
 | [GameInput](https://github.com/cstrachan88/odin-gameinput) | Bindings for Microsoft's GameInput SDK | [CC0-1.0](https://github.com/cstrachan88/odin-gameinput/blob/main/LICENSE) | Gamedev, Windows
 | [harfbuzz](https://codeberg.org/mgavioli/odin-harfbuzz) | Bindings for [HarfBuzz](https://github.com/harfbuzz/harfbuzz) | [BSD 2-clause](https://codeberg.org/mgavioli/odin-harfbuzz/src/branch/main/LICENSE.md) | Text
+| [ICU](https://github.com/avanspector/odin-icu) | Bindings for [ICU4C](https://github.com/unicode-org/icu) | [BSD 2-clause](https://github.com/avanspector/odin-icu/blob/main/LICENSE) | Text
 | [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
 | [libbfd](https://github.com/wardjm/odin-bfd) | Bindings for [libbfd](https://github.com/CyberGrandChallenge/binutils/tree/master/bfd) | [GPLv2](https://github.com/wardjm/odin-bfd/blob/main/LICENSE) |
 | [LibClang](https://github.com/Platin21/odin-clang) | Bindings for libClang for Odin | None |
