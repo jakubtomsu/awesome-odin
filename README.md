@@ -302,7 +302,7 @@ Open-source software implemented in Odin.
 | [Lasers](https://github.com/redpenguinyt/Lasers) | A small 2d laser simulation with SDL2 to learn Odin | None | Gamedev, 2D, SDL
 | [H264 Decoding](https://github.com/markersniffen/odin-d3d11-h264-decode) | A minimal reference version of H264 video decoding with D3D11 and Windows Media Foundation API | None | Example
 | [Spurtle](https://github.com/aribish/spurtle) | Wordle clone but with 6 letters | [GPL-3.0](https://github.com/aribish/spurtle/blob/main/LICENSE) | Raylib, Gamedev, Clone
-| [Atlas Builder](https://github.com/karl-zylinski/atlas-builder) | Builds an atlas for use in Odin 2D video games. Supports aseprite files | Gamedev, Tools
+| [Atlas Builder](https://github.com/karl-zylinski/atlas-builder) | Builds an atlas for use in Odin 2D video games. Supports aseprite files | MIT | Gamedev, Tools
 
 ## Closed-Source Projects
 A list of interesting software built in Odin. It's not open-source, but it can still be useful or inspiring.
