@@ -235,6 +235,9 @@ Useful Github Gists in Odin.
 | [GLFW and Vulkan Boilerplate](https://gist.github.com/laytan/ba57af3e5a59ab5cb2fca9e25bcfe262) | Odin, GLFW & Vulkan boilerplate for Drawing a Triangle based on https://vulkan-tutorial.com | Gamedev, Graphics, Vulkan, GLFW, Shaders
 | [LLDB visualization](https://gist.github.com/laytan/a94c323a84cef7bcfbdf6d21987fd5a9) | Python script for slice, map, and string formatting in LLDB | Debugger, Tools, Utility
 | [Realtime Collision Detection](https://gist.github.com/jakubtomsu/2acd84731d3c2613c91e40c2e064ffe6) | Port of some 3d collision procedures from the 'Realtime Collision Detection' book | Gamedev, Physics, Collision
+| [Open window using Windows API](https://gist.github.com/karl-zylinski/f8761856593776014c9de3368437e790) | Minimal example of how to open a window using `core:sys/windows` | Windows, Graphics
+| [Rect Cut](https://gist.github.com/karl-zylinski/ffccda0babb7e05b0657bf0acd3f1a99) | Procedures for cutting up a rect, useful for IMGUI layouting | UI, ImGui
+
 
 # Resources
 List of Odin tutorials, articles, videos and other resources.
