@@ -261,7 +261,7 @@ List of Odin tutorials, articles, videos and other resources.
 | [Sokol WASM Playground](https://github.com/colinbellino/odin_sokol_wasm_playground) | Example of Sokol and Odin on web using emscripten | Gamedev, Sokol, WASM, Example
 | [Odin OpenCV Demo](https://github.com/yevhen-k/opencv-odin-demo/) | Odin with OpenCV image processing demo | OpenCV, Demo
 | [Playing audio files with miniaudio](https://gist.github.com/p1xelHer0/abed4728096ea3a88af7802cbe46cf08) | Play audio files from memory with Odin #load | Miniaudio, Audio, Demo
-| [An introduction to Odin](https://zylinski.se/posts/introduction-to-odin/) | Long article about the basics of Odin. Finishes off with some examples of useful core libraries | Article
+| [Introduction to the Odin Programming Language](https://zylinski.se/posts/introduction-to-odin/) | Long article about the basics of Odin. Finishes off with some examples of useful core libraries | Article
 | [Snake game from start to finish](https://www.youtube.com/watch?v=lfiQNCNUifI) | 90 minute video of how to implement a snake game using Raylib | Youtube, Gamedev
 | [Setup Sublime Text for Odin](https://www.youtube.com/watch?v=RF2MgVqfBV8) | Shows how to turn Sublime Text into a powerful Odin development environment, including code completion | Youtube, Utility
 | [Make a Breakout game from start to finish](https://www.youtube.com/watch?v=vfgZOEvO0kM&ab_channel=KarlZylinski) ⭐ | Karl Zylinski shows how to make a breakout clone in Odin+Raylib in 2 hours | Youtube, Tutorial, Gamedev
