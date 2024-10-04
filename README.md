@@ -326,6 +326,7 @@ A list of interesting software built in Odin. It's not open-source, but it can s
 | [4coder](https://github.com/Skytrias/4coder_skytrias) | 4coder customization layer for odin | None
 | [Vim](https://github.com/Tetralux/odin.vim) | Odin highlighting for Vim | [MIT](https://github.com/Tetralux/odin.vim/blob/master/LICENSE)
 | [Tree Sitter](https://github.com/amaanq/tree-sitter-odin) | Odin Tree-sitter grammar | [MIT](https://github.com/ap29600/tree-sitter-odin/blob/main/LICENSE)
+| [Zed](https://github.com/clseibold/zed-odin) | Zed Editor plugin integrating OLS and Tree-sitter | [MIT](https://github.com/clseibold/zed-odin/blob/main/LICENSE)
 
 # Deprecated
 A list of outdated/deprecated/archived libraries, included for the sake of completeness and in case someone wants to update it.
