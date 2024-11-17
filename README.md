@@ -53,6 +53,7 @@ List of libraries implemented in Odin
 | [pathgrid](https://github.com/scoobery/odin_pathgrid) | A simple 2D grid-based pathfinding library for Odin | [BSD 3-Clause "New" or "Revised"](https://github.com/scoobery/odin_pathgrid/blob/master/LICENSE)
 | [VEFontCache](https://github.com/Ed94/VEFontCache-Odin) | A port of Vertex Engine GPU Font Cache ([VEFontCache](https://github.com/hypernewbie/VEFontCache)) for the Odin programming language | [Custom](https://github.com/Ed94/VEFontCache-Odin/blob/main/LICENSE.md)
 | [Dusk](https://github.com/JerMakesStuff/Dusk) | A small game framework / project template | [MIT](https://github.com/JerMakesStuff/Dusk/blob/main/LICENSE) | Gamedev, Template, Framework, Engine, ECS
+| [mikktspace](https://github.com/wrapperup/odin-mikktspace) | A port of Morten S. Mikkelsen's tangent space algorithm for Odin | [zlib](https://github.com/wrapperup/odin-mikktspace/blob/main/LICENSE) | Gamedev, Graphics, 3D
 
 ### Formats
 | Name | Description | License | Tags |
