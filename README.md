@@ -24,8 +24,7 @@ A star (⭐) means the resource is exceptionally good.
 - [Vendor Library Collection](https://pkg.odin-lang.org/vendor/)
 
 # Getting Started
-- [Installing Odin](https://odin-lang.org/docs/install/) for installing odin
-- Alternatively Karl Zylinski made a video about [setting up the Odin compiler from source on Windows](https://youtu.be/yq5VabsGz_4?si=VAA-eyg3KmjjZh3H)
+- [Installing Odin](https://odin-lang.org/docs/install/) to set up an Odin development environment. Alternatively Karl Zylinski made a video about [setting up the Odin compiler from source on Windows](https://youtu.be/yq5VabsGz_4?si=VAA-eyg3KmjjZh3H)
 - [Overview](https://odin-lang.org/docs/overview/) is the official documentation for the language
 - [demo.odin](https://github.com/odin-lang/Odin/blob/master/examples/demo/demo.odin) is an example of odin's features in practice
 - [Understanding the Odin Programming Language](https://odinbook.com/) is the first book on Odin. An easy-to-read book that bridges the gap between the online docs and years of experience. Loosely based on this article: [Introduction to Odin](https://zylinski.se/posts/introduction-to-odin/)
