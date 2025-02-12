@@ -162,6 +162,8 @@ Vendor packages are commonly-used third-party libraries distributed along with t
 ## Bindings
 List of Odin bindings to C/C++ libraries.
 
+If you can't find any binding, then you can try using this generator https://github.com/karl-zylinski/odin-c-bindgen (or write the bindings by hand).
+
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
 | [Assimp](https://github.com/CoolDove/odin-assimp/tree/master) | Bindings for [Assimp](https://assimp.org/), Open Asset Import Library is a library to load various 3d file formats into a shared, in-memory imediate format. It supports more than 40 file formats for import and a growing selection of file formats for export | [MIT](https://github.com/CoolDove/odin-assimp/blob/master/LICENSE) | Assets, Gamedev, Format
@@ -214,6 +216,7 @@ List of Odin bindings to C/C++ libraries.
 | [WGPU](https://github.com/UsiTarek/wgpu-odin) | Bindings for [WGPU](https://sotrh.github.io/learn-wgpu/) | [Apache 2.0](https://github.com/UsiTarek/wgpu-odin/blob/main/LICENSE) | Gamedev, GPU, WGPU, Graphics
 | [XInput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for [XInput](https://docs.microsoft.com/en-us/windows/desktop/xinput/), a windows input library | [MIT](https://github.com/ThisDrunkDane/odin-xinput/blob/master/LICENSE) | Gamedev, Windows, Input 
 | [zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for [ZeroMQ](http://zeromq.org/), An open-source universal messaging library | [Missing](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) | Networking
+
 
 # Gists
 Useful Github Gists in Odin.
