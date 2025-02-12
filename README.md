@@ -162,7 +162,7 @@ Vendor packages are commonly-used third-party libraries distributed along with t
 ## Bindings
 List of Odin bindings to C/C++ libraries.
 
-If you can't find any binding, then you can try using this generator https://github.com/karl-zylinski/odin-c-bindgen (or write the bindings by hand).
+If you can't find the bindings you need, then you can try using this generator: https://github.com/karl-zylinski/odin-c-bindgen (or write the bindings by hand).
 
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
