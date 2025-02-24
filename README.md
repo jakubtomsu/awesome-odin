@@ -111,6 +111,10 @@ List of libraries implemented in Odin
 | [locale](https://codeberg.org/mgavioli/locale) | An experimental Odin libray to manage locale informations. Inspired by [findlocale](https://icculus.org/~aspirin/findlocale/) C library | [FreeBSD](https://codeberg.org/mgavioli/locale/src/branch/master/LICENSE.md)
 | [podin](https://codeberg.org/mgavioli/podin) | `.pot` generation utility from Odin sources to collect translatable messages to be managed with tools like [PoEdit](https://poedit.net/) | [FreeBSD](https://codeberg.org/mgavioli/podin/src/branch/main/LICENSE.md)
 
+### Compilers
+| [Blaise](https://github.com/gingerBill/blaise) | Blaise Programming Language - A Language for Learning About Compilers. Made by Ginger Bill | [BSD Zero Clause](https://github.com/gingerBill/blaise/blob/master/LICENSE) | x86 codegen
+| [VecC](https://github.com/jakubtomsu/vecc) | Experimental vector-oriented programming language with C codegen | [MIT](https://github.com/jakubtomsu/vecc/blob/main/LICENSE) | C codegen, SIMD
+
 ## Built-in
 This is a list of notable libraries which are distributed along with the Odin compiler. For a full list head over to [Official Package Documentation](https://pkg.odin-lang.org/).
 
