@@ -249,6 +249,8 @@ Useful Github Gists in Odin.
 | [Open window using Windows API](https://gist.github.com/karl-zylinski/f8761856593776014c9de3368437e790) | Minimal example of how to open a window using `core:sys/windows` | Windows, Graphics
 | [Rect Cut](https://gist.github.com/karl-zylinski/ffccda0babb7e05b0657bf0acd3f1a99) | Procedures for cutting up a rect, useful for IMGUI layouting | UI, ImGui
 | [SDL + sokol_gfx + D3D11](https://gist.github.com/jakubtomsu/470e33d477936ba9c772e2395f661b5f) | Minimal D3D11 device and swapchain setup when using SDL with sokol_gfx instead of sokol_app | Gamedev
+| [sokol_gfx + D3D11 setup without sokol_app](https://gist.github.com/jakubtomsu/470e33d477936ba9c772e2395f661b5f) | Minimal example of sokol_gfx on native D3D11 | Graphics, Gamedev
+| [Cubic curves](https://gist.github.com/jakubtomsu/577f2375aad587e09c2d75e085fef87f) | Sample of various cubic curves (bezier, hermite, catmull-rom, b-spline) based on Freya's video | Math, Graphics, Gamedev
 
 
 # Resources
