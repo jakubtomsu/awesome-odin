@@ -112,6 +112,8 @@ List of libraries implemented in Odin
 | [podin](https://codeberg.org/mgavioli/podin) | `.pot` generation utility from Odin sources to collect translatable messages to be managed with tools like [PoEdit](https://poedit.net/) | [FreeBSD](https://codeberg.org/mgavioli/podin/src/branch/main/LICENSE.md)
 
 ### Compilers
+| Name | Description | License | Tags |
+| ---- | ----------- | ------- | ---- |
 | [Blaise](https://github.com/gingerBill/blaise) | Blaise Programming Language - A Language for Learning About Compilers. Made by Ginger Bill | [BSD Zero Clause](https://github.com/gingerBill/blaise/blob/master/LICENSE) | x86 codegen
 | [VecC](https://github.com/jakubtomsu/vecc) | Experimental vector-oriented programming language with C codegen | [MIT](https://github.com/jakubtomsu/vecc/blob/main/LICENSE) | C codegen, SIMD
 
