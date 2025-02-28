@@ -243,7 +243,6 @@ Useful Github Gists in Odin.
 | [D3D12 Triangle](https://gist.github.com/jakubtomsu/ecd83e61976d974c7730f9d7ad3e1fd0) | Single-procedure D3D12 triangle example | Gamedev, Graphics, D3D12, Shaders, SDL |
 | [UUIDV4](https://gist.github.com/laytan/9053ea979bdbc5ebb4bf66d4caf5c402) | UUID Generator | UID, Cryptography, Webdev |
 | [WASM4 Bindings](https://gist.github.com/gingerBill/9a6c0a6f0a34a147ff82e9f6047db2ac) | WASM-4 Bindings | Webdev, WASM, Graphics |
-| [Text Editor](https://gist.github.com/pJotoro/fae7bc4ea3c551d40d2e8d5b67c119d4) | Simple text editor | Graphics, Tools, Editor, UI, Font
 | [Odin logger for Raylib](https://gist.github.com/laytan/e411288bc622eaf09832e752b31c9bc8) | Raylib logging callback to Odin logger | Gamedev, Tools, Utility
 | [GLFW and Vulkan Boilerplate](https://gist.github.com/laytan/ba57af3e5a59ab5cb2fca9e25bcfe262) | Odin, GLFW & Vulkan boilerplate for Drawing a Triangle based on https://vulkan-tutorial.com | Gamedev, Graphics, Vulkan, GLFW, Shaders
 | [LLDB visualization](https://gist.github.com/laytan/a94c323a84cef7bcfbdf6d21987fd5a9) | Python script for slice, map, and string formatting in LLDB | Debugger, Tools, Utility
