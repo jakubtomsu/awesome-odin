@@ -225,7 +225,7 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [WGPU](https://github.com/UsiTarek/wgpu-odin) | Bindings for [WGPU](https://sotrh.github.io/learn-wgpu/) | [Apache 2.0](https://github.com/UsiTarek/wgpu-odin/blob/main/LICENSE) | Gamedev, GPU, WGPU, Graphics
 | [XInput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for [XInput](https://docs.microsoft.com/en-us/windows/desktop/xinput/), a windows input library | [MIT](https://github.com/ThisDrunkDane/odin-xinput/blob/master/LICENSE) | Gamedev, Windows, Input 
 | [zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for [ZeroMQ](http://zeromq.org/), An open-source universal messaging library | [Apache 2.0](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) | Networking
-| [wsServer](https://github.com/saenai255/odin-wsserver) | [wsServer](https://github.com/Theldus/wsServer) C WebSocket library | [MIT](https://github.com/saenai255/odin-wsserver/blob/main/LICENSE)
+| [wsServer](https://github.com/saenai255/odin-wsserver) | [wsServer](https://github.com/Theldus/wsServer) C WebSocket library | [MIT](https://github.com/saenai255/odin-wsserver/blob/main/LICENSE) | WebSockets, Networking
 
 
 # Gists
