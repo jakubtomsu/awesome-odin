@@ -54,6 +54,7 @@ List of libraries implemented in Odin
 | [VEFontCache](https://github.com/Ed94/VEFontCache-Odin) | A port of Vertex Engine GPU Font Cache ([VEFontCache](https://github.com/hypernewbie/VEFontCache)) for the Odin programming language | [Custom](https://github.com/Ed94/VEFontCache-Odin/blob/main/LICENSE.md)
 | [Dusk](https://github.com/JerMakesStuff/Dusk) | A small game framework / project template | [MIT](https://github.com/JerMakesStuff/Dusk/blob/main/LICENSE) | Gamedev, Template, Framework, Engine, ECS
 | [mikktspace](https://github.com/wrapperup/odin-mikktspace) | A port of Morten S. Mikkelsen's tangent space algorithm for Odin | [zlib](https://github.com/wrapperup/odin-mikktspace/blob/main/LICENSE) | Gamedev, Graphics, 3D
+| [Valhalla](https://github.com/xandaron/valhalla) | A graphics engine designed for rendering 3D scenes with a focus on non-photorealistic rendering techniques | [MIT](https://github.com/xandaron/Valhalla/blob/Odin_3D_Engine/LICENSE) | Gamedev, Vulkan, Graphics
 
 ### Formats
 | Name | Description | License | Tags |
@@ -82,7 +83,6 @@ List of libraries implemented in Odin
 | [OstrichDB](https://github.com/Solitude-Software-Solutions/OstrichDB) | A document-based NoSQL, SQLite-esque database for local machine use, ideal for beginners creating and testing backends and application data | [Apache 2.0](https://github.com/Solitude-Software-Solutions/OstrichDB/blob/main/LICENCE) | Database
 
 ### Templating
-
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
 | [Mustache](https://github.com/benjamindblock/odin-mustache) | Mustache logic-less templating engine | [MIT](https://github.com/benjamindblock/odin-mustache/blob/main/LICENSE) | Template, Webdev
@@ -111,11 +111,13 @@ List of libraries implemented in Odin
 | [locale](https://codeberg.org/mgavioli/locale) | An experimental Odin libray to manage locale informations. Inspired by [findlocale](https://icculus.org/~aspirin/findlocale/) C library | [FreeBSD](https://codeberg.org/mgavioli/locale/src/branch/master/LICENSE.md)
 | [podin](https://codeberg.org/mgavioli/podin) | `.pot` generation utility from Odin sources to collect translatable messages to be managed with tools like [PoEdit](https://poedit.net/) | [FreeBSD](https://codeberg.org/mgavioli/podin/src/branch/main/LICENSE.md)
 
-### Compilers
+### Language Tooling
+Compilers, transpilers, binding generators, and other language-related tools.
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
 | [Blaise](https://github.com/gingerBill/blaise) | Blaise Programming Language - A Language for Learning About Compilers. Made by Ginger Bill | [BSD Zero Clause](https://github.com/gingerBill/blaise/blob/master/LICENSE) | x86 codegen
 | [VecC](https://github.com/jakubtomsu/vecc) | Experimental vector-oriented programming language with C codegen | [MIT](https://github.com/jakubtomsu/vecc/blob/main/LICENSE) | C codegen, SIMD
+| [Runic](https://github.com/Samudevv/runic) | Bindings Generator and Intermediate Format for programming languages using the C-ABI, with support for C and Odin | [GNU v2.0](https://github.com/Samudevv/runic/blob/master/LICENSE)
 
 ## Built-in
 This is a list of notable libraries which are distributed along with the Odin compiler. For a full list head over to [Official Package Documentation](https://pkg.odin-lang.org/).
@@ -217,11 +219,13 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [Termbox](https://github.com/thebirk/odin-termbox)     | A binding for [termbox](https://github.com/nsf/termbox), a text-based user interface alternative to ncurses | [MIT](https://github.com/thebirk/odin-termbox/blob/master/LICENSE) | UI
 | [tinyfiledialogs](https://github.com/duffn/odin-tinyfiledialogs) | Bindings for the [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) native dialog box library. | [zlib](https://github.com/duffn/odin-tinyfiledialogs/blob/main/LICENSE) | UI
 | [Tracy](https://github.com/oskarnp/odin-tracy) ⭐ | Bindings for the Tracy profiler | [BSD-2-Clause](https://github.com/oskarnp/odin-tracy/blob/master/LICENSE) | Gamedev, Performance
-| [ufbx](https://github.com/cshenton/odin-ufbx)          | A binding for [ufbx](https://github.com/ufbx/ufbx), a simple FBX loader library | [Unlicense](https://github.com/cshenton/odin-ufbx/blob/master/LICENSE) | Gamedev, Assets, 3D |
+| [ufbx](https://github.com/cshenton/odin-ufbx)  | Bindings for [ufbx](https://github.com/ufbx/ufbx), a simple FBX loader library | [Unlicense](https://github.com/cshenton/odin-ufbx/blob/master/LICENSE) | Gamedev, Assets, 3D
+| [ufbx (xandron's updated fork)](https://github.com/xandaron/odin-ufbx) | Bindings for [ufbx](https://github.com/ufbx/ufbx), a simple FBX loader library | [Unlicense](https://github.com/xandaron/odin-ufbx/blob/xandaron/LICENSE) | Gamedev, Assets, 3D
 | [WebUI](https://github.com/webui-dev/odin-webui) | Bindings for [WebUI](https://github.com/webui-dev/webui), use your preferred language in the backend and modern web technologies in the frontend | [MIT](https://github.com/webui-dev/odin-webui/blob/main/LICENSE) | UI, Cross Platform
 | [WGPU](https://github.com/UsiTarek/wgpu-odin) | Bindings for [WGPU](https://sotrh.github.io/learn-wgpu/) | [Apache 2.0](https://github.com/UsiTarek/wgpu-odin/blob/main/LICENSE) | Gamedev, GPU, WGPU, Graphics
 | [XInput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for [XInput](https://docs.microsoft.com/en-us/windows/desktop/xinput/), a windows input library | [MIT](https://github.com/ThisDrunkDane/odin-xinput/blob/master/LICENSE) | Gamedev, Windows, Input 
-| [zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for [ZeroMQ](http://zeromq.org/), An open-source universal messaging library | [Missing](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) | Networking
+| [zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for [ZeroMQ](http://zeromq.org/), An open-source universal messaging library | [Apache 2.0](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) | Networking
+| [wsServer](https://github.com/saenai255/odin-wsserver) | [wsServer](https://github.com/Theldus/wsServer) C WebSocket library | [MIT](https://github.com/saenai255/odin-wsserver/blob/main/LICENSE)
 
 
 # Gists
@@ -319,6 +323,7 @@ Open-source software implemented in Odin.
 | [Spurtle](https://github.com/aribish/spurtle) | Wordle clone but with 6 letters | [GPL-3.0](https://github.com/aribish/spurtle/blob/main/LICENSE) | Raylib, Gamedev, Clone
 | [Atlas Builder](https://github.com/karl-zylinski/atlas-builder) | Builds an atlas for use in Odin 2D video games. Supports aseprite files | MIT | Gamedev, Tools
 | [lucynes](https://github.com/lucypero/lucynes) | An NES emulator written in Odin. | [MIT](https://github.com/lucypero/lucynes/blob/master/LICENSE) | Gamedev, Emulator
+| [Bragi](https://github.com/xandaron/Bragi) | An image processing pipeline in Vulkan for testing post processing effects | [MIT](https://github.com/xandaron/Bragi/blob/main/LICENSE) | Vulkan, Shader
 
 ## Closed-Source Projects
 A list of interesting software built in Odin. It's not open-source, but it can still be useful or inspiring.
