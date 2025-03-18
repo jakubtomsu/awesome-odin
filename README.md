@@ -86,7 +86,7 @@ List of libraries implemented in Odin
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
 | [Mustache](https://github.com/benjamindblock/odin-mustache) | Mustache logic-less templating engine | [MIT](https://github.com/benjamindblock/odin-mustache/blob/main/LICENSE) | Template, Webdev
-| [Temple](https://github.com/laytan/temple) | Templating engine that compiles to Odin io calls | None | Template, Webdev
+| [Temple](https://github.com/laytan/temple) | Templating engine that compiles to Odin io calls | [MIT](https://github.com/laytan/temple/blob/main/LICENSE) | Template, Webdev
 
 ### Data structures
 | Name | Description | License | Tags |
@@ -312,7 +312,7 @@ Open-source software implemented in Odin.
 | [Todool](https://github.com/Skytrias/todool) | A To-Do Editor with different modes, advanced movement & powerful commands. Track your development cycle with ease | [MIT](https://github.com/Skytrias/todool/blob/master/LICENSE) | Utility, Tools
 | [HTMX Example TODO List App](https://github.com/laytan/todomvc-odin-htmx) | An implementation of Todo MVC using my in development Odin web stack. | None | Webdev, Tools
 | [Dungeon of Quake](https://github.com/jakubtomsu/dungeon-of-quake) | Retro FPS game inspired by Quake | [MIT or Public Domain](https://github.com/jakubtomsu/dungeon-of-quake/blob/main/LICENSE) | Raylib, Gamedev, 3D, Shaders
-| [LD55 - The Last Summoner](https://github.com/atomicptr/ld55) | LD55 entry made with Odin and Raylib. You are the last summoner alive in an apocalypse and you have to survivor using your summons! | Gamedev, Raylib
+| [LD55 - The Last Summoner](https://github.com/atomicptr/ld55) | LD55 entry made with Odin and Raylib. You are the last summoner alive in an apocalypse and you have to survivor using your summons! | [GPL-3.0](https://github.com/atomicptr/ld55/blob/master/LICENSE) | Gamedev, Raylib
 | [Asterboids](https://github.com/keenanwoodall/asterboids) | Rogue-like space shooter. Made with Odin + Raylib | [MIT](https://github.com/keenanwoodall/asterboids/blob/main/LICENSE.txt) | Gamedev, Raylib, 2D
 | [Voxel Game](https://github.com/kyumikek/voxel-game) | A WIP voxel game engine inspired by minecraft | None | Gamedev, Raylib, 3D
 | [Solitare](https://github.com/A1029384756/odin-solitaire) ⭐ | Solitare clone using Odin and Raylib | None | Gamedev, 2D, Raylib, Clone
@@ -322,7 +322,7 @@ Open-source software implemented in Odin.
 | [Lasers](https://github.com/redpenguinyt/Lasers) | A small 2d laser simulation with SDL2 to learn Odin | None | Gamedev, 2D, SDL
 | [H264 Decoding](https://github.com/markersniffen/odin-d3d11-h264-decode) | A minimal reference version of H264 video decoding with D3D11 and Windows Media Foundation API | None | Example
 | [Spurtle](https://github.com/aribish/spurtle) | Wordle clone but with 6 letters | [GPL-3.0](https://github.com/aribish/spurtle/blob/main/LICENSE) | Raylib, Gamedev, Clone
-| [Atlas Builder](https://github.com/karl-zylinski/atlas-builder) | Builds an atlas for use in Odin 2D video games. Supports aseprite files | MIT | Gamedev, Tools
+| [Atlas Builder](https://github.com/karl-zylinski/atlas-builder) | Builds an atlas for use in Odin 2D video games. Supports aseprite files | [MIT](https://github.com/karl-zylinski/atlas-builder/blob/main/LICENSE) | Gamedev, Tools
 | [lucynes](https://github.com/lucypero/lucynes) | An NES emulator written in Odin. | [MIT](https://github.com/lucypero/lucynes/blob/master/LICENSE) | Gamedev, Emulator
 | [Bragi](https://github.com/xandaron/Bragi) | An image processing pipeline in Vulkan for testing post processing effects | [MIT](https://github.com/xandaron/Bragi/blob/main/LICENSE) | Vulkan, Shader
 
