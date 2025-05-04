@@ -187,7 +187,6 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [ffmpeg](https://github.com/numbers-zz/odin-ffmpeg-bindings) | Bindings for [ffmpeg](https://ffmpeg.org/), a complete, cross-platform solution to record, convert and stream audio and video | None | Video
 | [FMOD](https://github.com/jakubtomsu/odin-fmod) | Bindings for [FMOD](https://www.fmod.com/) | [MIT](https://github.com/jakubtomsu/odin-fmod/blob/main/LICENSE) | Gamedev, Audio
 | [Freetype](https://github.com/englerj/odin-freetype) | A binding for [FreeType](https://www.freetype.org/) | [MIT](https://github.com/englerj/odin-freetype/blob/main/LICENSE) | Graphics, Text, Gamedev
-| [GameInput](https://github.com/cstrachan88/odin-gameinput) | Bindings for Microsoft's GameInput SDK | [CC0-1.0](https://github.com/cstrachan88/odin-gameinput/blob/main/LICENSE) | Gamedev, Windows
 | [harfbuzz](https://codeberg.org/mgavioli/odin-harfbuzz) | Bindings for [HarfBuzz](https://github.com/harfbuzz/harfbuzz) | [BSD 2-clause](https://codeberg.org/mgavioli/odin-harfbuzz/src/branch/main/LICENSE.md) | Text
 | [ICU](https://github.com/avanspector/odin-icu) | Bindings for [ICU4C](https://github.com/unicode-org/icu) | [BSD 2-clause](https://github.com/avanspector/odin-icu/blob/main/LICENSE) | Text
 | [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
