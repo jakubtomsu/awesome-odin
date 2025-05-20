@@ -87,6 +87,7 @@ List of libraries implemented in Odin
 | ---- | ----------- | ------- | ---- |
 | [Mustache](https://github.com/benjamindblock/odin-mustache) | Mustache logic-less templating engine | [MIT](https://github.com/benjamindblock/odin-mustache/blob/main/LICENSE) | Template, Webdev
 | [Temple](https://github.com/laytan/temple) | Templating engine that compiles to Odin io calls | [MIT](https://github.com/laytan/temple/blob/main/LICENSE) | Template, Webdev
+| [Templateless](https://github.com/nviam/odin-templateless) | A lightweight, logicless templating library for the Odin programming language | [1-Clause BSD NON-AI](https://github.com/nviam/odin-templateless/blob/main/LICENSE) | Template, Webdev
 
 ### Data structures
 | Name | Description | License | Tags |
