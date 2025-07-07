@@ -324,6 +324,7 @@ Open-source software implemented in Odin.
 | [Spurtle](https://github.com/aribish/spurtle) | Wordle clone but with 6 letters | [GPL-3.0](https://github.com/aribish/spurtle/blob/main/LICENSE) | Raylib, Gamedev, Clone
 | [Atlas Builder](https://github.com/karl-zylinski/atlas-builder) | Builds an atlas for use in Odin 2D video games. Supports aseprite files | [MIT](https://github.com/karl-zylinski/atlas-builder/blob/main/LICENSE) | Gamedev, Tools
 | [lucynes](https://github.com/lucypero/lucynes) | An NES emulator written in Odin. | [MIT](https://github.com/lucypero/lucynes/blob/master/LICENSE) | Gamedev, Emulator
+| [VirtualXT](https://github.com/virtualxt/virtualxt) | Portable, lightweight Turbo PC/XT emulator written in Odin. | [zlib](https://github.com/virtualxt/virtualxt/blob/develop/LICENSE) | Emulator
 | [Bragi](https://github.com/xandaron/Bragi) | An image processing pipeline in Vulkan for testing post processing effects | [MIT](https://github.com/xandaron/Bragi/blob/main/LICENSE) | Vulkan, Shader
 
 ## Closed-Source Projects
