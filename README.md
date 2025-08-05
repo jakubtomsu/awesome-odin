@@ -166,7 +166,7 @@ Vendor packages are commonly-used third-party libraries distributed along with t
 | [cgltf](https://pkg.odin-lang.org/vendor/cgltf/)                 | Bindings for a GLTF asset loader | Gamedev, Graphics, Format, Assets
 | [darwin/Metal](https://pkg.odin-lang.org/vendor/darwin/Metal/)   | Bindings for Metal API | Gamedev, Graphics, 3D
 | [stb](https://pkg.odin-lang.org/vendor/stb/)                     | Bindings for libs from [STB](https://github.com/nothings/stb) | Format, Gamedev, Assets, Utility
-| [sdl2](https://pkg.odin-lang.org/vendor/sdl2/)                   | Bindings for [SDL2](https://www.libsdl.org), a cross-platform development library | Gamedev, Graphics, Audio, Networking                    
+| [sdl2](https://pkg.odin-lang.org/vendor/sdl2/), [sdl3](https://pkg.odin-lang.org/vendor/sdl3/) | Bindings for [SDL](https://www.libsdl.org), a cross-platform development library | Gamedev, Graphics, Audio, Networking     
 
 ## Bindings
 List of Odin bindings to C/C++ libraries.
@@ -287,6 +287,7 @@ List of Odin tutorials, articles, videos and other resources.
 | [Make a Breakout game from start to finish](https://www.youtube.com/watch?v=vfgZOEvO0kM&ab_channel=KarlZylinski) ⭐ | Karl Zylinski shows how to make a breakout clone in Odin+Raylib in 2 hours | Youtube, Tutorial, Gamedev
 | [Make a Snake game from start to finish](https://youtu.be/lfiQNCNUifI?si=I3x4X7niiFHiXl_n) ⭐ | Beginner tutorial about making a simple snake game in Raylib | Youtube, Tutorial, Gamedev
 | [Simple Undo/Redo](https://jakubtomsu.github.io/posts/simple_undo_redo_in_odin/) | An article about a grug brained approach to level editor history | Article, Gamedev
+| [Odin SDL3 GPU Tutorial](https://www.youtube.com/playlist?list=PLI3kBEQ3yd-CbQfRchF70BPLF9G1HEzhy) | A video tutorial series on how to get started with the SDL3 GPU API | Youtube, Tutorial, Playlist
 
 ## Interviews
 - [ThePrimeagen - Odin Creator Ginger Bill Talks Odin](https://youtu.be/nVa9mgRcVPs?si=Thf2agqoYtYYsXIR)
