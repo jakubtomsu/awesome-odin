@@ -109,6 +109,7 @@ List of libraries implemented in Odin
 | [CLI Argument Parser](https://github.com/GoNZooo/odin-cli) | Using types to specify how command line arguments should be parsed | None | Utility, CLI, Parser
 | [Odin-style CLI Argument Parser](https://github.com/SjVer/ClOdin) | A command-line argument parser mimicking the Odin compiler's style | [MIT](https://github.com/SjVer/ClOdin/blob/main/LICENSE) | CLI, Utility, Parser
 | [Terminal Color](https://github.com/hrszpuk/odin-color) | Simple, easy to use terminal colors | [MIT](https://github.com/hrszpuk/odin-color/blob/main/LICENSE) | CLI, Utility
+| [TermCL](https://github.com/RaphGL/TermCL) | Cross-platform curses-like TUI and CLI library | [BSD 3-Clause License](https://github.com/RaphGL/TermCL/blob/main/LICENSE) | TUI, CLI, Utility
 | [Back](https://github.com/laytan/back) | Cross-platform back/stack traces for assertion failures, the tracking allocator, and segfaults | [MIT](https://github.com/laytan/back/blob/main/LICENSE) | Debugging, Auxiliary
 | [locale](https://codeberg.org/mgavioli/locale) | An experimental Odin libray to manage locale informations. Inspired by [findlocale](https://icculus.org/~aspirin/findlocale/) C library | [FreeBSD](https://codeberg.org/mgavioli/locale/src/branch/master/LICENSE.md)
 | [podin](https://codeberg.org/mgavioli/podin) | `.pot` generation utility from Odin sources to collect translatable messages to be managed with tools like [PoEdit](https://poedit.net/) | [FreeBSD](https://codeberg.org/mgavioli/podin/src/branch/main/LICENSE.md)
