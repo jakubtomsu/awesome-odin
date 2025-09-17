@@ -55,6 +55,7 @@ List of libraries implemented in Odin
 | [Dusk](https://github.com/JerMakesStuff/Dusk) | A small game framework / project template | [MIT](https://github.com/JerMakesStuff/Dusk/blob/main/LICENSE) | Gamedev, Template, Framework, Engine, ECS
 | [mikktspace](https://github.com/wrapperup/odin-mikktspace) | A port of Morten S. Mikkelsen's tangent space algorithm for Odin | [zlib](https://github.com/wrapperup/odin-mikktspace/blob/main/LICENSE) | Gamedev, Graphics, 3D
 | [Valhalla](https://github.com/xandaron/valhalla) | A graphics engine designed for rendering 3D scenes with a focus on non-photorealistic rendering techniques | [MIT](https://github.com/xandaron/Valhalla/blob/Odin_3D_Engine/LICENSE) | Gamedev, Vulkan, Graphics
+| [Anvil](https://github.com/ariaghora/anvil) | Neural network inference in pure Odin | [MIT](https://github.com/ariaghora/anvil/blob/main/LICENSE) | ML, ONNX
 
 ### Formats
 | Name | Description | License | Tags |
