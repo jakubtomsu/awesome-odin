@@ -56,6 +56,7 @@ List of libraries implemented in Odin
 | [mikktspace](https://github.com/wrapperup/odin-mikktspace) | A port of Morten S. Mikkelsen's tangent space algorithm for Odin | [zlib](https://github.com/wrapperup/odin-mikktspace/blob/main/LICENSE) | Gamedev, Graphics, 3D
 | [Valhalla](https://github.com/xandaron/valhalla) | A graphics engine designed for rendering 3D scenes with a focus on non-photorealistic rendering techniques | [MIT](https://github.com/xandaron/Valhalla/blob/Odin_3D_Engine/LICENSE) | Gamedev, Vulkan, Graphics
 | [Anvil](https://github.com/ariaghora/anvil) | Neural network inference in pure Odin | [MIT](https://github.com/ariaghora/anvil/blob/main/LICENSE) | ML, ONNX
+| [libretro](https://codeberg.org/virtualxt/libretro) | Simple API that allows for the creation of games and emulators | [MIT](https://codeberg.org/virtualxt/libretro/src/branch/main/LICENSE) | Gamedev, Emulation
 
 ### Formats
 | Name | Description | License | Tags |
