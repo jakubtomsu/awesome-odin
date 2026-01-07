@@ -194,6 +194,7 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [Freetype](https://github.com/englerj/odin-freetype) | A binding for [FreeType](https://www.freetype.org/) | [MIT](https://github.com/englerj/odin-freetype/blob/main/LICENSE) | Graphics, Text, Gamedev
 | [harfbuzz](https://codeberg.org/mgavioli/odin-harfbuzz) | Bindings for [HarfBuzz](https://github.com/harfbuzz/harfbuzz) | [BSD 2-clause](https://codeberg.org/mgavioli/odin-harfbuzz/src/branch/main/LICENSE.md) | Text
 | [ICU](https://github.com/avanspector/odin-icu) | Bindings for [ICU4C](https://github.com/unicode-org/icu) | [BSD 2-clause](https://github.com/avanspector/odin-icu/blob/main/LICENSE) | Text
+| [ImageMagick](https://github.com/wrathdoesthat/odin-magick) | Bindings for the [ImageMagick](https://github.com/ImageMagick/ImageMagick) image manipulation library | [Custom](https://github.com/wrathdoesthat/odin-magick/blob/main/LICENSE) | Images
 | [Jolt](https://gitlab.com/raygarner13/jolt) | Bindings for the [Jolt](https://github.com/jrouwe/JoltPhysics) physics engine | None | Gamedev, 3D, Physics
 | [libbfd](https://github.com/wardjm/odin-bfd) | Bindings for [libbfd](https://github.com/CyberGrandChallenge/binutils/tree/master/bfd) | [GPLv2](https://github.com/wardjm/odin-bfd/blob/main/LICENSE) |
 | [LibClang](https://github.com/Platin21/odin-clang) | Bindings for libClang for Odin | None |
