@@ -43,7 +43,7 @@ List of libraries implemented in Odin
 | [jobs](https://github.com/jakubtomsu/jobs) | Job system | [MIT](https://github.com/jakubtomsu/jobs/blob/main/LICENSE) | Gamedev
 | [glcache](https://github.com/DragosPopse/glcache) | Cached OpenGL calls | None | OpenGL, Graphics, Gamedev
 | [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
-| [Godot Toolkit](https://github.com/dresswithpockets/odin-godot) | Toolkit for Godot 4.0 to work with GDExtension and generating boilerplate | [Apache 2.0](https://github.com/dresswithpockets/odin-godot/blob/main/LICENSE) | Gamedev, Engine, Utility
+| [Godot Toolkit](https://github.com/dresswithpockets/odin-godot) | Toolkit for Godot 4.4 to work with GDExtension and generating boilerplate | [Apache 2.0](https://github.com/dresswithpockets/odin-godot/blob/main/LICENSE) | Gamedev, Engine, Utility
 | [glTF2](https://github.com/Pawel82S/glTF2) ⭐ | Native Odin implementation of glTF2 loading file format | [MIT](https://github.com/Pawel82S/glTF2/blob/master/LICENSE) | Gamedev, Format, 3D
 | [Aseprite loader](https://github.com/blob1807/odin-aseprite) | Handler for Aseprite's .ase/.aseprite, .aseprite-extension & extended .gpl files writen in Odin | [BSD 3-Clause](https://github.com/blob1807/odin-aseprite/blob/main/LICENSE) | Gamedev, 2D, Format
 | [Odin + Raylib Hotreloading Template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) | An Odin + Raylib game template with Hot Reloading pre-setup. My game projects tend to have some things in common, so I made this template so I can get up and running quicker | [Custom](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template/blob/main/LICENSE) | Gamedev, Template, Raylib
