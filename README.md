@@ -58,6 +58,7 @@ List of libraries implemented in Odin
 | [Anvil](https://github.com/ariaghora/anvil) | Neural network inference in pure Odin | [MIT](https://github.com/ariaghora/anvil/blob/main/LICENSE) | ML, ONNX
 | [libretro](https://codeberg.org/virtualxt/libretro) | Simple API that allows for the creation of games and emulators | [MIT](https://codeberg.org/virtualxt/libretro/src/branch/main/LICENSE) | Gamedev, Emulation
 | [muninn](https://github.com/GuilHartt/muninn) | A lightweight, high-performance, archetype-based Entity Component System (ECS) | [zlib](https://github.com/GuilHartt/muninn/blob/main/LICENSE) | Gamedev, ECS, Performance
+| [odecs](https://github.com/NateTheGreatt/odecs) | A simple, modern ECS built in Odin. | [MIT](https://github.com/NateTheGreatt/odecs/blob/main/license) | Gamedev, ECS
 
 ### Formats
 | Name | Description | License | Tags |
