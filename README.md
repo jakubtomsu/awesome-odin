@@ -59,6 +59,7 @@ List of libraries implemented in Odin
 | [libretro](https://codeberg.org/virtualxt/libretro) | Simple API that allows for the creation of games and emulators | [MIT](https://codeberg.org/virtualxt/libretro/src/branch/main/LICENSE) | Gamedev, Emulation
 | [muninn](https://github.com/GuilHartt/muninn) | A lightweight, high-performance, archetype-based Entity Component System (ECS) | [zlib](https://github.com/GuilHartt/muninn/blob/main/LICENSE) | Gamedev, ECS, Performance
 | [odecs](https://github.com/NateTheGreatt/odecs) | A simple, modern ECS built in Odin. | [MIT](https://github.com/NateTheGreatt/odecs/blob/main/license) | Gamedev, ECS
+| [moecs](https://github.com/helioscout/moecs) | Easy to use **mo**tivated **e**ntity **c**omponent **s**ystem. | [GPL-3.0](https://github.com/helioscout/moecs/blob/master/LICENSE.md) | Gamedev, ECS
 
 ### Formats
 | Name | Description | License | Tags |
@@ -337,6 +338,7 @@ Open-source software implemented in Odin.
 | [lucynes](https://github.com/lucypero/lucynes) | An NES emulator written in Odin. | [MIT](https://github.com/lucypero/lucynes/blob/master/LICENSE) | Gamedev, Emulator
 | [VirtualXT](https://github.com/virtualxt/virtualxt) | Portable, lightweight Turbo PC/XT emulator written in Odin. | [zlib](https://github.com/virtualxt/virtualxt/blob/develop/LICENSE) | Emulator
 | [Bragi](https://github.com/xandaron/Bragi) | An image processing pipeline in Vulkan for testing post processing effects | [MIT](https://github.com/xandaron/Bragi/blob/main/LICENSE) | Vulkan, Shader
+| [mouniverse](https://github.com/helioscout/mouniverse) | Space game crafted with Odin, karl2d, box2d, moecs. | [GPL-3.0](https://github.com/helioscout/mouniverse/blob/master/LICENSE.md) | Gamedev, ECS
 
 ## Closed-Source Projects
 A list of interesting software built in Odin. It's not open-source, but it can still be useful or inspiring.
