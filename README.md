@@ -126,6 +126,7 @@ Compilers, transpilers, binding generators, and other language-related tools.
 | [Blaise](https://github.com/gingerBill/blaise) | Blaise Programming Language - A Language for Learning About Compilers. Made by Ginger Bill | [BSD Zero Clause](https://github.com/gingerBill/blaise/blob/master/LICENSE) | x86 codegen
 | [VecC](https://github.com/jakubtomsu/vecc) | Experimental vector-oriented programming language with C codegen | [MIT](https://github.com/jakubtomsu/vecc/blob/main/LICENSE) | C codegen, SIMD
 | [Runic](https://github.com/Samudevv/runic) | Bindings Generator and Intermediate Format for programming languages using the C-ABI, with support for C and Odin | [GNU v2.0](https://github.com/Samudevv/runic/blob/master/LICENSE)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Odin language workflow orchestration, automated systems programming pipeline management, and multi-agent coordination. MIT licensed.
 
 ## Built-in
 This is a list of notable libraries which are distributed along with the Odin compiler. For a full list head over to [Official Package Documentation](https://pkg.odin-lang.org/).
