@@ -238,6 +238,7 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [yyjson](https://github.com/enerqi/odin-yyjson/)       | Bindings for [yyjson](https://github.com/ibireme/yyjson) | [zlib](https://github.com/enerqi/odin-yyjson/blob/master/LICENSE) | Serialization
 | [zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for [ZeroMQ](http://zeromq.org/), An open-source universal messaging library | [Apache 2.0](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) | Networking
 | [wsServer](https://github.com/saenai255/odin-wsserver) | [wsServer](https://github.com/Theldus/wsServer) C WebSocket library | [MIT](https://github.com/saenai255/odin-wsserver/blob/main/LICENSE) | WebSockets, Networking
+| [Odin-Slang](https://github.com/DragosPopse/odin-slang)| Bings for [Shader-Slang](https://github.com/shader-slang/slang) | [Apache-2.0](https://github.com/shader-slang/slang/blob/master/LICENSE) | ML, GPU, Gamedev, Graphics
 
 
 # Gists
