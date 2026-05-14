@@ -60,6 +60,7 @@ List of libraries implemented in Odin
 | [muninn](https://github.com/GuilHartt/muninn) | A lightweight, high-performance, archetype-based Entity Component System (ECS) | [zlib](https://github.com/GuilHartt/muninn/blob/main/LICENSE) | Gamedev, ECS, Performance
 | [odecs](https://github.com/NateTheGreatt/odecs) | A simple, modern ECS built in Odin. | [MIT](https://github.com/NateTheGreatt/odecs/blob/main/license) | Gamedev, ECS
 | [moecs](https://github.com/helioscout/moecs) | Easy to use **mo**tivated **e**ntity **c**omponent **s**ystem. | [GPL-3.0](https://github.com/helioscout/moecs/blob/master/LICENSE.md) | Gamedev, ECS
+| [Odin Unity Interop](https://github.com/herohiralal/com.herohiralal.odininterop) | Odin interoperability for Unity. Works with Windows, Mac, Linux, iOS, Android. Super-easy to generate C# bindings, and the package already ships with a lot of necessary ones. | [Apache 2.0](https://github.com/herohiralal/com.herohiralal.odininterop/blob/main/LICENSE) | GameDev, Unity, Engine, Utility
 
 ### Formats
 | Name | Description | License | Tags |
