@@ -82,6 +82,7 @@ A curated list of awesome Odin libraries, software and resources.
 ### Webdev
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
+| [Gjallarhorn](https://github.com/Lvcky-gg/Gjallarhorn) | Batteries included web framework | [MIT](https://github.com/Lvcky-gg/Gjallarhorn/blob/main/license.md) | Webdev
 | [GraphQL Parser](https://github.com/thetarnav/odin-graphql-parser) | GraphQL language parser | [MIT](https://github.com/thetarnav/odin-graphql-parser/blob/main/license) | Webdev
 | [Open-OstrichDB](https://github.com/Archetype-Dynamics/Open-OstrichDB) | The open source backend that powers [OstrichDB.com](https://ostrichdb.com/) | [Apache 2.0](https://github.com/Archetype-Dynamics/Open-OstrichDB/blob/main/LICENSE) | Webdev, Database
 | [OstrichDB-CLI](https://github.com/Archetype-Dynamics/OstrichDB-CLI) | A NoSQL/NoJSON document based DBMS directly in your terminal! | [Apache 2.0](https://github.com/Archetype-Dynamics/OstrichDB-CLI/blob/main/LICENCE) | Database
