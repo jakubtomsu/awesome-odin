@@ -116,6 +116,7 @@ A curated list of awesome Odin libraries, software and resources.
 | [Back](https://github.com/laytan/back) | Cross-platform back/stack traces for assertion failures, the tracking allocator, and segfaults | [MIT](https://github.com/laytan/back/blob/main/LICENSE) | Debugging, Auxiliary
 | [locale](https://codeberg.org/mgavioli/locale) | An experimental Odin libray to manage locale informations. Inspired by [findlocale](https://icculus.org/~aspirin/findlocale/) C library | [FreeBSD](https://codeberg.org/mgavioli/locale/src/branch/master/LICENSE.md)
 | [podin](https://codeberg.org/mgavioli/podin) | `.pot` generation utility from Odin sources to collect translatable messages to be managed with tools like [PoEdit](https://poedit.net/) | [FreeBSD](https://codeberg.org/mgavioli/podin/src/branch/main/LICENSE.md)
+| [Muninn: Logging for Odin](https://github.com/dlroy88osu/Muninn) | Bringing joy to logging for Odin. Pretty, colored output or JSON terminal, JSON Lines in file, thread safe, optional per-thread output boxes, log rotation, and more... |[MIT](https://github.com/dlroy88osu/Muninn/blob/master/LICENSE)| Tools, Logging, Logger
 
 ### Language Tooling
 Compilers, transpilers, binding generators, and other language-related tools.
@@ -171,7 +172,7 @@ Vendor packages are commonly-used third-party libraries distributed along with t
 | [cgltf](https://pkg.odin-lang.org/vendor/cgltf/)                 | Bindings for a GLTF asset loader | Gamedev, Graphics, Format, Assets
 | [darwin/Metal](https://pkg.odin-lang.org/vendor/darwin/Metal/)   | Bindings for Metal API | Gamedev, Graphics, 3D
 | [stb](https://pkg.odin-lang.org/vendor/stb/)                     | Bindings for libs from [STB](https://github.com/nothings/stb) | Format, Gamedev, Assets, Utility
-| [sdl2](https://pkg.odin-lang.org/vendor/sdl2/), [sdl3](https://pkg.odin-lang.org/vendor/sdl3/) | Bindings for [SDL](https://www.libsdl.org), a cross-platform development library | Gamedev, Graphics, Audio, Networking     
+| [sdl2](https://pkg.odin-lang.org/vendor/sdl2/), [sdl3](https://pkg.odin-lang.org/vendor/sdl3/) | Bindings for [SDL](https://www.libsdl.org), a cross-platform development library | Gamedev, Graphics, Audio, Networking
 
 ## Bindings
 List of Odin bindings to C/C++ libraries.
@@ -228,7 +229,7 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [ufbx](https://github.com/cshenton/odin-ufbx)  | Bindings for [ufbx](https://github.com/ufbx/ufbx), a simple FBX loader library | [Unlicense](https://github.com/cshenton/odin-ufbx/blob/master/LICENSE) | Gamedev, Assets, 3D
 | [ufbx (xandron's updated fork)](https://github.com/xandaron/odin-ufbx) | Bindings for [ufbx](https://github.com/ufbx/ufbx), a simple FBX loader library | [Unlicense](https://github.com/xandaron/odin-ufbx/blob/xandaron/LICENSE) | Gamedev, Assets, 3D
 | [WebUI](https://github.com/webui-dev/odin-webui) | Bindings for [WebUI](https://github.com/webui-dev/webui), use your preferred language in the backend and modern web technologies in the frontend | [MIT](https://github.com/webui-dev/odin-webui/blob/main/LICENSE) | UI, Cross Platform
-| [XInput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for [XInput](https://docs.microsoft.com/en-us/windows/desktop/xinput/), a windows input library | [MIT](https://github.com/ThisDrunkDane/odin-xinput/blob/master/LICENSE) | Gamedev, Windows, Input 
+| [XInput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for [XInput](https://docs.microsoft.com/en-us/windows/desktop/xinput/), a windows input library | [MIT](https://github.com/ThisDrunkDane/odin-xinput/blob/master/LICENSE) | Gamedev, Windows, Input
 | [yyjson](https://github.com/enerqi/odin-yyjson/)       | Bindings for [yyjson](https://github.com/ibireme/yyjson) | [zlib](https://github.com/enerqi/odin-yyjson/blob/master/LICENSE) | Serialization
 | [zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for [ZeroMQ](http://zeromq.org/), An open-source universal messaging library | [Apache 2.0](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) | Networking
 | [wsServer](https://github.com/saenai255/odin-wsserver) | [wsServer](https://github.com/Theldus/wsServer) C WebSocket library | [MIT](https://github.com/saenai255/odin-wsserver/blob/main/LICENSE) | WebSockets, Networking
@@ -272,7 +273,7 @@ List of Odin tutorials, articles, videos and other resources.
 | ---- | ----------- | ---- |
 | [Odin Overview](https://odin-lang.org/docs/overview/) | Official Odin language overview | Example, Article
 | [Memory Allocation Strategies](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/) | Series about memory allocation by GingerBill | Article
-| [demo.odin](https://github.com/odin-lang/Odin/blob/master/examples/demo/demo.odin) | A demo of basically all odin features | Example 
+| [demo.odin](https://github.com/odin-lang/Odin/blob/master/examples/demo/demo.odin) | A demo of basically all odin features | Example
 | [Introduction to the Odin programming language](https://www.youtube.com/watch?v=VLcTrUhSdlg&list=PLEQTpgQ9eFCGlQa2z0j_TQTGggHOIF8Z1&ab_channel=RickardAndersson) | Video series about Odin and programming | Youtube, Playlist |
 | [Space Shooter with SDL2 and Odin](https://youtu.be/GxuEeAqtlWc?si=Bfa38kWo_RFUPV2b) | Video series about programming a Space Shooter game with SDL2 and Odin | Youtube, Tutorial, Playlist |
 | [Odin Programming Language: An Introduction](https://youtu.be/rCqFdYUnC24?si=Oq2FEfF1Zi2dVzv9) | Introduction to the Odin Programming Language by Ginger Bill from 2020-11-26 | Youtube, Talk |
