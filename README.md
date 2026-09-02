@@ -2,12 +2,9 @@
     <img src="assets/logo_small.png" alt="Logo" width="200">
 </p>
 
-A curated list of awesome Odin libraries, software and resources.
+A community-managed list of awesome Odin libraries, software and resources.
 
 [Odin](https://odin-lang.org/) is a general-purpose programming language built for high-performance, modern systems and data-oriented programming.
-
-> [!NOTE]
-> Many commonly used bindings are already included in the [Vendor Collection](https://pkg.odin-lang.org/vendor/) which comes with the compiler
 
 # Contents
 - **[Getting Started](#getting-started)**
@@ -21,6 +18,10 @@ A curated list of awesome Odin libraries, software and resources.
 - [Odin Wiki Libs](https://github.com/odin-lang/Odin/wiki/Odin-Libs)
 - [Core Library Collection](https://pkg.odin-lang.org/core/)
 - [Vendor Library Collection](https://pkg.odin-lang.org/vendor/)
+
+> [!NOTE]
+> Many commonly used bindings are already included in the [Vendor Collection](https://pkg.odin-lang.org/vendor/) which comes with the compiler
+
 
 # Getting Started
 - [Installing Odin](https://odin-lang.org/docs/install/) to set up an Odin development environment. Alternatively Karl Zylinski made a video about [setting up the Odin compiler from source on Windows](https://youtu.be/yq5VabsGz_4?si=VAA-eyg3KmjjZh3H)
