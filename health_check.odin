@@ -1,5 +1,6 @@
-// Parse the markdown links and use github API to check health.
-// The list of suspicious links can be used to manually prune the README.
+// Parse the markdown links and use github API to prune outdated links from this registry.
+// The output is a list of suspicious links which can be removed/updated manually.
+// Keep in mind there might be false positives.
 package main
 
 import "core:fmt"
@@ -164,13 +165,21 @@ main :: proc() {
 
     fmt.printfln("Found %i links, checking health...", len(unique_links))
 
+    err_sum := 0
+    err_nums: [Error]int
     for link in unique_links {
         err, err_msg := check_repo(link, token)
         
         if err != .None {
             fmt.printfln("\t%s: %v (%s)", link, err, err_msg)
+            err_sum += 1
+            err_nums[err] += 1
         }
     }
 
-    fmt.println("Done.")
+    fmt.printfln("\nTotal issues found: %i", err_sum)
+    for err, num in err_nums {
+        fmt.printfln("\t%v: %i", err, num)
+    }
+    fmt.println("\nDone.")
 }
