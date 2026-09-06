@@ -319,6 +319,7 @@ Open-source software implemented in Odin.
 | [lucynes](https://github.com/lucypero/lucynes) | An NES emulator written in Odin. | [MIT](https://github.com/lucypero/lucynes/blob/master/LICENSE) | Gamedev, Emulator
 | [Bragi](https://github.com/xandaron/Bragi) | An image processing pipeline in Vulkan for testing post processing effects | [MIT](https://github.com/xandaron/Bragi/blob/main/LICENSE) | Vulkan, Shader
 | [mouniverse](https://github.com/helioscout/mouniverse) | Space game crafted with Odin, karl2d, box2d, moecs. | [GPL-3.0](https://github.com/helioscout/mouniverse/blob/master/LICENSE.md) | Gamedev, ECS
+| [skarwm](https://github.com/nerdyslacker/skarwm) | A small keyboard-driven scrollable X11 window manager | [BSD-2-Clause](https://github.com/nerdyslacker/skarwm/blob/main/LICENSE) | Linux, WM
 
 ## Closed-Source Projects
 A list of interesting software built in Odin. It's not open-source, but it can still be useful or inspiring.
