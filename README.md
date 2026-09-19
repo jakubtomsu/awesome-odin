@@ -33,6 +33,11 @@ A community-managed list of awesome Odin libraries, software and resources.
 # Packages
 ## Libraries
 
+### Concurrency
+| Name | Description | License | Tags |
+| ---- | ----------- | ------- | ---- |
+| [Matryoshka](https://github.com/g41797/matryoshka-otk) | Toolkit for Building Background Processes | [MIT](https://github.com/g41797/matryoshka-otk/blob/main/LICENSE) | Concurrency, Modular-Monolith
+
 ### Gamedev
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
