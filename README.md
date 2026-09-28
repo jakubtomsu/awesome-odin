@@ -59,6 +59,7 @@ A community-managed list of awesome Odin libraries, software and resources.
 | [moecs](https://github.com/helioscout/moecs) | Easy to use **mo**tivated **e**ntity **c**omponent **s**ystem. | [MIT](https://github.com/helioscout/moecs/blob/master/LICENSE.md) | Gamedev, ECS
 | [Odin Unity Interop](https://github.com/herohiralal/com.herohiralal.odininterop) | Odin interoperability for Unity. Works with Windows, Mac, Linux, iOS, Android. Super-easy to generate C# bindings, and the package already ships with a lot of necessary ones. | [Apache 2.0](https://github.com/herohiralal/com.herohiralal.odininterop/blob/main/LICENSE) | GameDev, Unity, Engine, Utility
 | [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
+| [tina](https://github.com/pmbanugo/tina) | A strictly bounded, thread-per-core concurrency framework | [Apache 2.0](https://github.com/pmbanugo/tina/blob/main/LICENSE) | Parallelism, Concurency
 
 ### Formats
 | Name | Description | License | Tags |
