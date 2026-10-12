@@ -214,6 +214,7 @@ If you can't find the bindings you need, then you can try using this generator: 
 | [Rure](https://github.com/enerqi/odin-rure)       | Bindings for [Rust Regex](https://github.com/rust-lang/regex/tree/master/regex-capi) | [zlib](https://github.com/enerqi/odin-rure/blob/master/LICENSE) | Regex
 | [Steamworks](https://github.com/jakubtomsu/odin-steamworks) | Bindings for [Steamworks SDK](https://partner.steamgames.com/doc/sdk) | [MIT](https://github.com/jakubtomsu/odin-steamworks/blob/main/LICENSE) | Gamedev
 | [SQLite3](https://github.com/saenai255/odin-sqlite3) | SQLite3 bindings | [MIT](https://github.com/saenai255/odin-sqlite3/blob/master/LICENSE) | Database, Webdev
+| [S7 Scheme](https://github.com/HVukman/S7Odin) | Bindings for [S7 Scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html) (Unix) | [MIT](https://github.com/saenai255/odin-sqlite3/blob/master/LICENSE) | Language, Scheme
 | [tinyfiledialogs](https://github.com/duffn/odin-tinyfiledialogs) | Bindings for the [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) native dialog box library. | [zlib](https://github.com/duffn/odin-tinyfiledialogs/blob/main/LICENSE) | UI
 | [Tracy](https://github.com/oskarnp/odin-tracy) | Bindings for the Tracy profiler | [BSD-2-Clause](https://github.com/oskarnp/odin-tracy/blob/master/LICENSE) | Gamedev, Performance
 | [ufbx](https://github.com/cshenton/odin-ufbx)  | Bindings for [ufbx](https://github.com/ufbx/ufbx), a simple FBX loader library | [Unlicense](https://github.com/cshenton/odin-ufbx/blob/master/LICENSE) | Gamedev, Assets, 3D
