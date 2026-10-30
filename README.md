@@ -36,9 +36,8 @@ A community-managed list of awesome Odin libraries, software and resources.
 ### Gamedev
 | Name | Description | License | Tags |
 | ---- | ----------- | ------- | ---- |
-| [Ravn Engine](https://github.com/jakubtomsu/ravn) | Simple and efficient framework for 2D and 3D game development. | [MIT](https://github.com/jakubtomsu/ravn/blob/main/LICENSE.txt) | Gamedev
 | [Karl 2D](https://github.com/karl-zylinski/karl2d) | Odin 2D game library. Beginner friendly and easy to modify | [Zlib](https://github.com/karl-zylinski/karl2d/blob/master/LICENSE) | Framework
-| [Jamgine](https://github.com/asbott/jamgine) | Self-contained realtime graphical application engine with a simplistic design philosophy | [MIT](https://github.com/asbott/jamgine/blob/main/LICENSE) | Gamedev, Engine, Graphics, Vulkan
+| [Ravn Engine](https://github.com/jakubtomsu/ravn) | Simple and efficient framework for 2D and 3D game development. | [MIT](https://github.com/jakubtomsu/ravn/blob/main/LICENSE.txt) | Gamedev
 | [LBP Serialization](https://github.com/jakubtomsu/odin-lbp-serialization) | Easy-to-use LBP binary serialization utility | [MIT](https://github.com/jakubtomsu/odin-lbp-serialization/blob/main/LICENSE) | Gamedev, Serialization, Assets
 | [jobs](https://github.com/jakubtomsu/jobs) | Job system | [MIT](https://github.com/jakubtomsu/jobs/blob/main/LICENSE) | Gamedev
 | [Godot Toolkit](https://github.com/dresswithpockets/odin-godot) | Toolkit for Godot 4.4 to work with GDExtension and generating boilerplate | [Apache 2.0](https://github.com/dresswithpockets/odin-godot/blob/main/LICENSE) | Gamedev, Engine, Utility
@@ -59,6 +58,7 @@ A community-managed list of awesome Odin libraries, software and resources.
 | [moecs](https://github.com/helioscout/moecs) | Easy to use **mo**tivated **e**ntity **c**omponent **s**ystem. | [MIT](https://github.com/helioscout/moecs/blob/master/LICENSE.md) | Gamedev, ECS
 | [Odin Unity Interop](https://github.com/herohiralal/com.herohiralal.odininterop) | Odin interoperability for Unity. Works with Windows, Mac, Linux, iOS, Android. Super-easy to generate C# bindings, and the package already ships with a lot of necessary ones. | [Apache 2.0](https://github.com/herohiralal/com.herohiralal.odininterop/blob/main/LICENSE) | GameDev, Unity, Engine, Utility
 | [Marshmallow engine](https://github.com/DragosPopse/marshmallow) | WIP Game Engine written in pure Odin | None | Gamedev, Engine
+| [tina](https://github.com/pmbanugo/tina) | A strictly bounded, thread-per-core concurrency framework | [Apache 2.0](https://github.com/pmbanugo/tina/blob/main/LICENSE) | Parallelism, Concurency
 
 ### Formats
 | Name | Description | License | Tags |
@@ -348,6 +348,7 @@ A list of outdated/deprecated/archived libraries, included for the sake of compl
 | Link | Reason
 |------|--------
 | https://github.com/Breush/odin-binding-generator | Lost interest
+| https://github.com/asbott/jamgine | Not maintained
 | https://github.com/zhibog/odin-unittest | check out `core:testing`
 | https://github.com/dotbmp/odin-json | check out `core:encoding/json`
 | https://github.com/vassvik/odin-gl | check out `vendor:openGL`
