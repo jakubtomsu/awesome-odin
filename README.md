@@ -114,6 +114,7 @@ A community-managed list of awesome Odin libraries, software and resources.
 | [locale](https://codeberg.org/mgavioli/locale) | An experimental Odin libray to manage locale informations. Inspired by [findlocale](https://icculus.org/~aspirin/findlocale/) C library | [FreeBSD](https://codeberg.org/mgavioli/locale/src/branch/master/LICENSE.md)
 | [podin](https://codeberg.org/mgavioli/podin) | `.pot` generation utility from Odin sources to collect translatable messages to be managed with tools like [PoEdit](https://poedit.net/) | [FreeBSD](https://codeberg.org/mgavioli/podin/src/branch/main/LICENSE.md)
 | [Muninn: Logging for Odin](https://github.com/dlroy88osu/Muninn) | Bringing joy to logging for Odin. Pretty, colored output or JSON terminal, JSON Lines in file, thread safe, optional per-thread output boxes, log rotation, and more... |[MIT](https://github.com/dlroy88osu/Muninn/blob/master/LICENSE)| Tools, Logging, Logger
+| [Sleipnir](https://github.com/boxxxie/sleipnir) | Actor runtime and DSL inspired by Pony and Elixir, featuring lock-free mailboxes, zero-GC message pooling, and work-stealing | [MIT](https://github.com/boxxxie/sleipnir/blob/master/LICENSE) | Concurrency, Multithreading, Actor, Runtime
 
 ### Language Tooling
 Compilers, transpilers, binding generators, and other language-related tools.
