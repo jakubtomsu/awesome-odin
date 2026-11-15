@@ -296,6 +296,7 @@ A linter is built into the compiler, see `odin help check`, specifically the `-v
   - also contains a standalone formatter in the `tools/odinfmt` directory
 - [[jtakakura/asdf-odin](https://github.com/jtakakura/asdf-odin)]: Plugin for the asdf version/package manager ![GitHub last commit](https://img.shields.io/github/last-commit/jtakakura/asdf-odin)
 - [[laytan/setup-odin](https://github.com/laytan/setup-odin)]: GitHub action for setting up the compiler ![GitHub last commit](https://img.shields.io/github/last-commit/laytan/setup-odin)
+- [[zeybek/obench](https://github.com/zeybek/obench)]: Micro-benchmarking library and CLI for Odin, with allocation counts, @zero_alloc checks, baseline comparison, and odin test integration ![GitHub last commit](https://img.shields.io/github/last-commit/zeybek/obench)
 
 # Built with Odin
 ## Open-source Projects
